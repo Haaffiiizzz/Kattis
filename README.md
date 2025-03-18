@@ -1,1 +1,1 @@
-# Kattis
+# Repository for Kattis Solutions
