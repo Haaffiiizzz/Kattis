@@ -1,0 +1,1483 @@
+McGill University	mcgill27	Arman Biberoglu, Arman Biberoglu	Northeast North America Site
+University of Lethbridge	Heidi Andres	Heidi Andres	Rocky Mountain Site
+University of Lethbridge	Mani Marami Milani	Mani Marami	Rocky Mountain Site
+University of Texas at Austin	rested	Yifan Ma	South Central USA Site
+University of Texas at Dallas	Siv G	Shivesh Gupta	South Central USA Site
+University of Chicago	Hanlei	Hanlei Wen	Mid-Central USA Site
+City University of New York	TMCOTEAM	Orazmuhammet Begenjow	Greater NY Site
+Rochester Institute of Technology	Error404	Jacky Huang	Northeast North America Site
+Purdue University	Ayush	Ayush Agarwal	East Central NA Site
+UTM XD		East Central NA Site
+Emory University	Nolan	Nolan Smith	Southeast USA Site
+Virginia Tech	JeremyEllis	Jeremy Ellis	Mid-Atlantic USA Site
+McGill University	mcgill138		Northeast North America Site
+McGill University	mcgill137		Northeast North America Site
+McGill University	mcgill2	Maxim Qu, Eric Li, Ali Meguellati	Northeast North America Site
+McGill University	mcgill141		Northeast North America Site
+McGill University	mcgill139		Northeast North America Site
+McGill University	mcgill140		Northeast North America Site
+McGill University	mcgill145		Northeast North America Site
+McGill University	mcgill146		Northeast North America Site
+McGill University	mcgill143		Northeast North America Site
+McGill University	mcgill142		Northeast North America Site
+Emory University	Alex	Alexander Liu	Southeast USA Site
+Florida Southern College	FSC14	Tyler Weaver	Southeast USA Site
+New York University	Falcons_NYUAD	Catalin Botezat	Greater NY Site
+Concordia University	Plan C(ontest)	Max Pearce Basman	Northeast North America Site
+Rensselaer Polytechnic Institute	TeamTeamTeam	Tag Ciccone, Ajitesh Bankula, Connor Kuemerle	Northeast North America Site
+University of Waterloo	Lulu	Stone Luo	East Central NA Site
+University of Waterloo	Eddy	Eddy Zheng	East Central NA Site
+University of Waterloo	Jane Street pls AC	Kevin Xu	East Central NA Site
+University of California, Santa Barbara	mtown	Jeremiah de Guzman	Southern California Site
+National Polytechnic Institute	Tijuana Liga Emeequis (TLE)		ICPC Ineligible Site
+Panamerican University	Igloo Zone		ICPC Ineligible Site
+National Polytechnic Institute	O(A^2+V)		ICPC Ineligible Site
+Brigham Young University	BYU JO	Jason Oliphant	Rocky Mountain Site
+University of Lethbridge	Prottasha D'Cruze		Rocky Mountain Site
+Brigham Young University	BYU EP	Ethan Palenske	Rocky Mountain Site
+University of Utah	Utah Y		Rocky Mountain Site
+Brigham Young University	BYU TA	Todd Applegate	Rocky Mountain Site
+University of Texas at Dallas	George Zee		Mid-Central USA Site
+DePauw University	DePauw Students		Mid-Central USA Site
+Knox College (Illinois)	Santosh!		Mid-Central USA Site
+Princeton University	Bitwise Wizards	Jin Schofield	Greater NY Site
+Rutgers University	EY2	Ethan Y	Greater NY Site
+Rutgers University	Professor Cat	Maxwell Goldberg, Yuang Zhou	Greater NY Site
+Massachusetts Institute of Technology	letmeregisterateamplz9		Northeast North America Site
+University of Northern Iowa	UNI Hackers		North Central NA Site
+Iowa State University	Alex Young		North Central NA Site
+Indiana University of Pennsylvania	IUP 1	Isabella Johnson, Jack MacMurdo	East Central NA Site
+McMaster University	mshi		East Central NA Site
+McMaster University	kmanimaran		East Central NA Site
+University of California, Irvine	UCI SC	Steven Cao	Southern California Site
+Duke University	747		Mid-Atlantic USA Site
+Drexel University	Hopper Dragons		Mid-Atlantic USA Site
+Arcadia University	AU Red		Mid-Atlantic USA Site
+Arcadia University	AU Grey		Mid-Atlantic USA Site
+Virginia Tech	KaushikNaras	Kaushik Narasimhan	Mid-Atlantic USA Site
+University of British Columbia	UBC2		Pacific Northwest Site
+San José State University	David Nguyen		Pacific Northwest Site
+University of British Columbia	UBC1		Pacific Northwest Site
+los monos bichis	Jesus Abraham Orbenes Rodarte, Jorge Eduardo Martínez Galindo, Angel Ruiz	ICPC Ineligible Site
+Panamerican University	MLE (Marquina Límite Exceeded)	Sofia Reyes Salas, Alejandra Esparza Pelcastre, Sebastian Díaz Álvarez	ICPC Ineligible Site
+University of Texas at Dallas	YG	Yugarya Goyal	South Central USA Site
+University of Texas at Dallas	PG	Preetham Guduri	South Central USA Site
+University of Texas at Dallas	Clark N	Clark Ngo	South Central USA Site
+University of Texas at Dallas	Bala	Balagannesh Senthilkumar	South Central USA Site
+University of Texas at Dallas	Ishaan	Ishaan Gupta	Mid-Central USA Site
+Florida Southern College	FSC18		Southeast USA Site
+Florida Southern College	FSC20		Southeast USA Site
+University of Georgia	UGA 15		Southeast USA Site
+University of Georgia	UGA 13		Southeast USA Site
+Florida Southern College	FSC15		Southeast USA Site
+Florida Southern College	FSC19		Southeast USA Site
+Florida Southern College	FSC16		Southeast USA Site
+University of Georgia	UGA 14		Southeast USA Site
+University of Central Florida	UCF Examinate		Southeast USA Site
+Virginia Tech	Asd	June Kim	Mid-Atlantic USA Site
+University of North Carolina at Greensboro	UNCG-3		Mid-Atlantic USA Site
+University of Pennsylvania	Team C	Shaan Keole	Mid-Atlantic USA Site
+Autonomous University of San Luis Potosí	Rodrigo NOS PEGA	Francisco Jesus Hernandez Hernandez, Juan Andrés García Manrique, Rodrigo Jiménez Cordero	ICPC Ineligible Site
+University of British Columbia	Yifan	Yifan Bao	Pacific Northwest Site
+Technological Institute of Culiacan	KRVADO+=T	Jorge Roberto Valdez Gamboa, Michael Alarcón	ICPC Ineligible Site
+Columbia University	Columbia-51	Jiusi Yin	Greater NY Site
+Case Western Reserve University	CWRU RP	Ryan Pitasky	East Central NA Site
+Case Western Reserve University	CWRU JP	Jay Patel	East Central NA Site
+Case Western Reserve University	CWRU AH	Adam Hutchings	East Central NA Site
+Johns Hopkins University	Hanliang Xu	Hanliang Xu	Mid-Atlantic USA Site
+Johns Hopkins University	Eldar Mustafayev	Eldar Mustafayev	Mid-Atlantic USA Site
+Princeton University	TowerTypers	Jasamrit Rahala	Greater NY Site
+Stony Brook University	William	William Lee	Greater NY Site
+University of California, Irvine	test	Jerry Chen	Southern California Site
+Virginia Tech	Alexey K	Alex K	Mid-Atlantic USA Site
+University of Texas at San Antonio	Gael Valdez	Gael Valdez	South Central USA Site
+Concordia University	new Team();	Fady Rizkalla	Northeast North America Site
+Rensselaer Polytechnic Institute	looking 4 job	Ken Li, Collin Inciong, Joshua Kloepfer	Northeast North America Site
+Ashland University	AUYellow	Dominic Johnson, Aniket Patel, Damien Johnson	Northeast North America Site
+Ohio State University	Sean Lipton 2	Sean Lipton	East Central NA Site
+University of Toronto	gg	William Wang	East Central NA Site
+Florida Southern College	FSC8	Emma Kilcoyne	Southeast USA Site
+Florida Southern College	FSC9	Marcos Felipe	Southeast USA Site
+Florida Southern College	FSC17	Jonathan Cazalas	Southeast USA Site
+Florida Southern College	FSC7	Alex Blake	Southeast USA Site
+Florida Southern College	FSC12	Alex Ness	Southeast USA Site
+Florida Southern College	FSC13	Melanie Fruciano	Southeast USA Site
+Florida Southern College	FSC10	Joel Peters	Southeast USA Site
+Florida Southern College	FSC6	Caleb Bennett	Southeast USA Site
+Florida Southern College	FSC2	Alexander Marston	Southeast USA Site
+Florida Southern College	FSC5	Peter Woodard	Southeast USA Site
+Florida Southern College	FSC3	McKenzie Cooney	Southeast USA Site
+Florida Southern College	FSC4	Matt Greenblatt	Southeast USA Site
+Florida Southern College	FSC11	Zachary Acton	Southeast USA Site
+Virginia Tech	Ben Ha	Benjamin Ha	Mid-Atlantic USA Site
+Johns Hopkins University	Joseph Gregory	Joseph Gregory	Mid-Atlantic USA Site
+University of California, Berkeley	Timothy Gao	Timothy Gao	Pacific Northwest Site
+University of California, Berkeley	Alexander Du	Alexander Du	Pacific Northwest Site
+University of California, Berkeley	Jakin Shen	Jakin Shen	Pacific Northwest Site
+University of California, Berkeley	Alexander Tian	Alexander Tian	Pacific Northwest Site
+University of California, Berkeley	Colin Steidtmann	Colin	Pacific Northwest Site
+University of California, Berkeley	Saathvik Selvan	Saathvik Selvan	Pacific Northwest Site
+University of California, Berkeley	Kirill Vasilev	Kirill Vasilev	Pacific Northwest Site
+University of California, Berkeley	Praneel Samal	Praneel Samal	Pacific Northwest Site
+University of California, Berkeley	Michael Liu	Michael Liu	Pacific Northwest Site
+University of California, Berkeley	Majed Shaker AlFaraj	Majed AlFaraj	Pacific Northwest Site
+University of California, Berkeley	Lucas Zheng	Lucas Zheng	Pacific Northwest Site
+University of California, Berkeley	Bradley Louie Saito	Bradley Louie Saito	Pacific Northwest Site
+SundarSTEM-6	Mutahir	ICPC Ineligible Site
+SundarSTEM-3	Zeeshan	ICPC Ineligible Site
+SundarSTEM-5	Hayan Ahmad	ICPC Ineligible Site
+SundarSTEM-2	Ghammaz Hassan	ICPC Ineligible Site
+SundarSTEM-7	Muhammad Hssaan Arif	ICPC Ineligible Site
+SundarSTEM-4	Muhammad Ahmad	ICPC Ineligible Site
+SundarSTEM-1	Abdullah	ICPC Ineligible Site
+Lafayette College	gvadz	David Gvadzabia	Mid-Atlantic USA Site
+University of British Columbia	UBC	Anand	Pacific Northwest Site
+New York University	Siva balan Saravanan	Siva balan Saravanan	Greater NY Site
+Hawaii Pacific University	#800080	Pierre Erard	Pacific Northwest Site
+Hawaii Pacific University	#FFA500	Matthew H, Ke'alohi Young, Joshua Leonard	Pacific Northwest Site
+Hawaii Pacific University	#90E4C1	Curt Powley	Pacific Northwest Site
+National University of Engineering (Peru)	roO(TLE)t	Daniel Munuico, Axel Benjamin Rocca Cruz	ICPC Ineligible Site
+Rutgers University	vrej	will ng	Greater NY Site
+Villanova University	Hongji	Hongji Chen	Mid-Atlantic USA Site
+University of California, Berkeley	Eric Yu	Eric Yu	Pacific Northwest Site
+University of Tulsa	CooperAndLiam	Liam, Cooper Terrill	South Central USA Site
+University of Tulsa	MarinaAndMikey	Mikey Ferguson, Marina Katoh	South Central USA Site
+University of Tulsa	ZachAndMitch	Mitchell Kallman, Zach Adams	South Central USA Site
+University of Tulsa	ZachAndAiman	Aiman Akmal Hizam, Zachary Sierra	South Central USA Site
+University of Tulsa	GavinAndGrace	Grace Kallman, Gavin Swart	South Central USA Site
+University of Tulsa	JonahAndRuby	Jonah Sanders, Hidden User	South Central USA Site
+University of California, Davis	CometsGoMoo	Suraj Mathashery	ICPC Ineligible Site
+Technological Institute of Culiacan	BRO™	Angel Olan, Carlos Daniel Beltrán Medina, Hidden User	ICPC Ineligible Site
+nik_exists	Nikolas Dyer	ICPC Ineligible Site
+National Polytechnic Institute	Chilaquiles con Tepisco	Abraham Macías, Jorge Iván Bórquez Meza	ICPC Ineligible Site
+C0DET1GER	James Wu	ICPC Ineligible Site
+ITESM Campus Monterrey	Sindicato de Taxistas Calakmul (PD 500 usd y agregamos tu nombre)	Andres De la Garza Rosales, Diego Alfonso Villarreal Grimaldo, Alonso Huerta	ICPC Ineligible Site
+Rutgers University	teamongus	Joseph Durie, Thomas Durie, Adam Jamil	ICPC Ineligible Site
+Higher Technological Institute of South Guanajuato	La Familia WAOS	Karla Belén Fuentes Paniagua, Jose Manuel, Juan Pablo Tinoco Lemus	ICPC Ineligible Site
+National University of Engineering (Peru)	JustToChill	LeoVL, Mijail Poccohuanca, Emanuel Soto	ICPC Ineligible Site
+Arizona State University	HotBowlOfPho	Hoàng Đức Huy, Gia Bao Phi, Son Nguyen	Rocky Mountain Site
+Arizona State University	Vector Titans	Vedant Tewari	Rocky Mountain Site
+University of Alberta	Md Neamur Rabbi	MD NEAMUR RABBI	Rocky Mountain Site
+Arizona State University	Stalin Sort	Amrit Kandasamy, Puranjay Madupu	Rocky Mountain Site
+University of North Carolina at Chapel Hill	UNC++	Benjamin Lin, Saksham Rustagi, Harshil Savani	Mid-Atlantic USA Site
+Drexel University	Night Disco	Thu Rein Linn	Mid-Atlantic USA Site
+Drexel University	Neo Dragon	Fuxu Zhang	Mid-Atlantic USA Site
+Drexel University	Deadline Disco	Mike Smyth	Mid-Atlantic USA Site
+Stanford University	Yousef Ramadan	Yousef Ramadan	Pacific Northwest Site
+Stanford University	Michael Ren	Michael Ren	Pacific Northwest Site
+Stanford University	Ravenor Davion	Ravenor Davion	Pacific Northwest Site
+Stanford University	Mrityunjay Kumar	Mrityunjay Kumar	Pacific Northwest Site
+Stanford University	Raiyan Haque	Raiyan Haque	Pacific Northwest Site
+Oregon State University	Oregon State 1	Carsten Yeung, John Butler, Zachary Barbanell	Pacific Northwest Site
+Stanford University	Zara Zong	Zara Zong	Pacific Northwest Site
+Stanford University	Ryan Wang	Ryan Wang	Pacific Northwest Site
+Stanford University	Vedant Singh	Vedant Singh	Pacific Northwest Site
+Stanford University	Ashwin Mahendran	Ashwin Mahendran	Pacific Northwest Site
+Stanford University	James Cheng	James Cheng	Pacific Northwest Site
+Stanford University	Willy Chan	Willy Chan	Pacific Northwest Site
+Stanford University	James Roberts	James Roberts	Pacific Northwest Site
+Stanford University	Wanning Lu	Wanning Lu	Pacific Northwest Site
+Stanford University	Austin Chen	Austin Chen	Pacific Northwest Site
+Stanford University	Andrew Liang	Andrew Liang	Pacific Northwest Site
+Stanford University	Michael Cho	Michael Cho	Pacific Northwest Site
+Stanford University	Luke Xue	Luke Xue	Pacific Northwest Site
+Stanford University	Matthew Vilaysack	Matthew Vilaysack	Pacific Northwest Site
+Stanford University	Parth Sheth	Parth Sheth	Pacific Northwest Site
+Stanford University	Jonathan	Jonathan Jonathan	Pacific Northwest Site
+Stanford University	Summit Kawakami	Summit Kawakami	Pacific Northwest Site
+Stanford University	Nishka Kacheria	Nishka K	Pacific Northwest Site
+Stanford University	Jerry Wang	Jerry Wang	Pacific Northwest Site
+Stanford University	Ethan Lee	Ethan Lee	Pacific Northwest Site
+Simon Fraser University	SFU_Mint	Xuan Viet Duc Nguyen	Pacific Northwest Site
+Stanford University	Nichamon Supatgiat	Nichamon Supatgiat	Pacific Northwest Site
+Stanford University	Sophia Rong	Sophia Rong	Pacific Northwest Site
+Stanford University	Ian Dalmas	Ian Dalmas	Pacific Northwest Site
+Stanford University	Sri Jaladi	Sri Jaladi	Pacific Northwest Site
+Stanford University	Tanmay Garg	Tanmay Garg	Pacific Northwest Site
+Stanford University	Angelisa Wang	Angelisa Wang	Pacific Northwest Site
+Stanford University	Andrew Gromyko	Andrew	Pacific Northwest Site
+Stanford University	Justin Wu	Justin Wu	Pacific Northwest Site
+Stanford University	Eugenie Shi	Hidden User	Pacific Northwest Site
+Stanford University	Ethan Kim	Ethan Kim	Pacific Northwest Site
+Stanford University	Ritwin Narra	Ritwin Narra	Pacific Northwest Site
+Stanford University	Dean Barrow	Dean Barrow	Pacific Northwest Site
+Stanford University	Aditi Bhaskar	Aditi Bhaskar	Pacific Northwest Site
+Stanford University	Manit Mehta	Manit Mehta	Pacific Northwest Site
+Stanford University	Ethan Lu	Ethan Lu	Pacific Northwest Site
+California State University, Monterey Bay	Tyler Fleming	Tyler Fleming	Pacific Northwest Site
+Stanford University	Thomas Li	Thomas Li	Pacific Northwest Site
+Stanford University	Dev J	Dev J	Pacific Northwest Site
+California State University, Monterey Bay	Nazar Geldymura	Nazar Geldymuradov	Pacific Northwest Site
+Stanford University	Yogesh Seenichamy-Venkatesan	Yogesh Seenichamy	Pacific Northwest Site
+Stanford University	Michael LI	Michael Li	Pacific Northwest Site
+Stanford University	Kenzy ELsherif	Kenzy ELsherif	Pacific Northwest Site
+Stanford University	Emily Han	Emily Han	Pacific Northwest Site
+Stanford University	Conor Kennedy	Conor Kennedy	Pacific Northwest Site
+Stanford University	Gino	Gino Gino	Pacific Northwest Site
+Stanford University	Vincent Yip	Vincent Yip	Pacific Northwest Site
+Stanford University	Mason Eyler	Mason Eyler	Pacific Northwest Site
+Stanford University	Rachel Ku	Rachel Ku	Pacific Northwest Site
+Stanford University	Kuokuo Li	Kuokuo Li	Pacific Northwest Site
+Stanford University	Kevin Chen	Kevin Chen	Pacific Northwest Site
+Stanford University	Damian Ho	Xu Yang Damian Ho	Pacific Northwest Site
+Tsinghua University	liympanda	Yiming Li	ICPC Ineligible Site
+ITESM Campus Monterrey	Cookie Cheaters	Hidden User, Alejandro Guajardo Caba, Imanol Armando Gonzalez Solis	ICPC Ineligible Site
+National Polytechnic Institute	hmmmmmmmmm?	Mejía Yáñez José Ehécatl, Leonardo Toral, Rembrandt Gerardo	ICPC Ineligible Site
+National Polytechnic Institute	Code for a Dream and Debug the Life	Angel Severiano Barrientos Guerrero, Alexis Adrian Murillo Barrientos, Tony Rusher	ICPC Ineligible Site
+MEL2-1	Liam Lazaro, miguel quezada, Eric Bui	ICPC Ineligible Site
+Massachusetts Institute of Technology	Massachusetts Institute of Technology	Kevin Sun	ICPC Ineligible Site
+CodeRats al Fallo	Samuel Felipe Maximiliano Chambi Ytusaca, Juan Manuel Soto Begazo, Julio Enrique Yauri Ituccayasi	ICPC Ineligible Site
+University of Lethbridge	Taro Noodle House	Julie Wojtiw-Quo, Dustin Ward	ICPC Ineligible Site
+Delft University of Technology	RRRRB og tluafgeS	Jeroen Op de Beek	ICPC Ineligible Site
+cooked	Khizar Ahmed, David Garcia, darren to	ICPC Ineligible Site
+Rutgers University	gaming	Jeffrey Zhang	ICPC Ineligible Site
+National University of Engineering (Peru)	NoTraining	Angello Jamir Pisfil Puicón, Manuel Ravichagua Marín, Joel Jhotan Chavez Chico	ICPC Ineligible Site
+National Polytechnic Institute	Los vengadores de Galois	Miguel Martínez, Olguin Reyes Iván Alejandro, AlexRex0	ICPC Ineligible Site
+University of California, Santa Barbara	Main Street Cupertino	Johann Ly	ICPC Ineligible Site
+José Faustino Sánchez Carrión National University	Donde estas Cr7	Zahir La Rosa Valladares, Jhon Oblitas, Mario Cavero Martinez	ICPC Ineligible Site
+amlelephant fan club	Ishan Pendyala, Lilliana Wang, Pengbao-Jason Wei	ICPC Ineligible Site
+La primera y nos vamos	Daniel Ramírez Kühn, Jos� Santiago Vales Mena, Armando Elim Martinez Armendariz	ICPC Ineligible Site
+José Faustino Sánchez Carrión National University	WASeniors	Aldo Zacieta Samanamud, Kleiner Stalyn Manrique Soliz, Carlos Cano	ICPC Ineligible Site
+lwm7708	Brian Law	ICPC Ineligible Site
+Princeton University	just me	Stanley Wei	ICPC Ineligible Site
+University of Guadalajara	Find(Nim Mo);	Andres Peña, Adrián Arturo García López, Tomomi Shimoda	ICPC Ineligible Site
+National Polytechnic Institute	Chimpancini Bananini	WhiteBurst, Angel Garcia, Joshua Raúl González Cruz	ICPC Ineligible Site
+Rutgers University	Rare Butterfly	Nick Belov	ICPC Ineligible Site
+Tokyo Institute of Technology	POP'N ROLL MUSIC	Kosuke Kaneshita	ICPC Ineligible Site
+NaNtrivial	jay jayjay	ICPC Ineligible Site
+University of Texas at Dallas	A-F	Ahmed Fouad	Mid-Central USA Site
+Columbia University	Columbia-52	Humza Choudry	Greater NY Site
+Columbia University	Columbia-55	Junzhe Zong	Greater NY Site
+Columbia University	Columbia-54	Baitian Li	Greater NY Site
+Columbia University	Columbia-53	Case Schemmer	Greater NY Site
+Stony Brook University	HSBCHKHH		Greater NY Site
+New York University	Team 7		Greater NY Site
+McGill University	mcgill144		Northeast North America Site
+Harvard University	Aaron		Northeast North America Site
+Team 1		Northeast North America Site
+University of Minnesota	Mangipudi		North Central NA Site
+Michigan Technological University	MTU Red		North Central NA Site
+University of Northern Iowa	UNI Gold		North Central NA Site
+McMaster University	cusaty		East Central NA Site
+McMaster University	jyuan		East Central NA Site
+McMaster University	ezamani		East Central NA Site
+McMaster University	mzhou		East Central NA Site
+McMaster University	uahmer		East Central NA Site
+McMaster University	dkogan		East Central NA Site
+McMaster University	btran		East Central NA Site
+McMaster University	vrandev		East Central NA Site
+McMaster University	ssinha		East Central NA Site
+McMaster University	nmurray		East Central NA Site
+McMaster University	jmoses		East Central NA Site
+University of Lethbridge	Reeve Wilde	Reeve Wilde	Rocky Mountain Site
+University of Utah	pip instil fear	Hidden User, Lucas Pearce, Shadrach Jensen	Rocky Mountain Site
+University of Alberta	Jarry Yang	Jarry Yang	Rocky Mountain Site
+University of Lethbridge	Brenden Duda	Brenden Duda	Rocky Mountain Site
+University of Lethbridge	Cyler Larocque	Cyler LaRocque	Rocky Mountain Site
+Brigham Young University	BYU MA	Matthew Argyle	Rocky Mountain Site
+Colorado School of Mines	Liam	Liam McArthur	Rocky Mountain Site
+University of Alberta	Kevin Huai	Kevin X Huai	Rocky Mountain Site
+Colorado School of Mines	Renn	Renn Gilbert	Rocky Mountain Site
+University of Lethbridge	Anh Vo	Anh Vo	Rocky Mountain Site
+University of Alberta	Krish Lal	Krish Lal	Rocky Mountain Site
+University of Lethbridge	Eugene Gu	Hidden User	Rocky Mountain Site
+Brigham Young University	BYU KA	Kenny Applegate	Rocky Mountain Site
+University of Lethbridge	Kashif Akintoye	Kashif Akintoye	Rocky Mountain Site
+Colorado School of Mines	Mark	Mark Suchodolskyi	Rocky Mountain Site
+University of Utah	Big Cottonwood Coders	Robert Morelli, Jonas Regehr, Mitch Briles	Rocky Mountain Site
+University of Calgary	Rishabh Agarwal	Rishabh Agarwal	Rocky Mountain Site
+University of Lethbridge	Arrol Cardoz	Arrol Cardoz	Rocky Mountain Site
+University of Alberta	Ahmed Siadomar	Ahmed Siadomar	Rocky Mountain Site
+University of Calgary	UCalgary Diplodocus	Jayden Wong, Daniel Bogorad, Orson Baines	Rocky Mountain Site
+University of Calgary	UCalgary Solo Leveling	Aidan Huang	Rocky Mountain Site
+University of Lethbridge	Ben Poupore	Benjamin Poupore	Rocky Mountain Site
+University of Lethbridge	Gurpreet Singh	Gurpreet Singh	Rocky Mountain Site
+University of Utah	Vibecoders	Minh Khoa Ngo, Hung Phan Quoc Viet, Ryan Do	Rocky Mountain Site
+University of Alberta	James Cote	James Cote	Rocky Mountain Site
+University of Alberta	Kevin Miao	Kexuan Miao	Rocky Mountain Site
+Colorado Mesa University	NJR	Russell Cannon, PiCO Logic and Transistors, Jacob Medina	Rocky Mountain Site
+University of Alberta	Ian DeHaan	Ian DeHaan	Rocky Mountain Site
+Utah Valley University	UVU JP	Jordan Perry	Rocky Mountain Site
+Brigham Young University	BYU JS	Joshua Steed	Rocky Mountain Site
+University of Lethbridge	Hashem Alkadri	Hashem Alkadri	Rocky Mountain Site
+University of Lethbridge	Henry Shi	Henry Shi	Rocky Mountain Site
+University of Lethbridge	Qiankai Chen	Qiankai Chen	Rocky Mountain Site
+University of Alberta	Charlie Zhang	Charlie Zhang	Rocky Mountain Site
+University of Alberta	Austin Lu	Austin Lu	Rocky Mountain Site
+Colorado School of Mines	Van	Van Adcox	Rocky Mountain Site
+University of Utah	Emigration Engineers	Bryce Crouse	Rocky Mountain Site
+University of Lethbridge	Jacob McBeath	Jacob McBeath	Rocky Mountain Site
+University of Alberta	Isabelle Hansen-Yang	Isabelle Hansen-Yang	Rocky Mountain Site
+University of Alberta	Parsa Zarezadeh	Parsa Zarezadeh	Rocky Mountain Site
+Colorado School of Mines	Isabelle	Isabelle Ousterhout	Rocky Mountain Site
+Colorado School of Mines	Nathan	Nathan George	Rocky Mountain Site
+University of Alberta	Daniil Zahoruiko	Daniil Zahoruiko	Rocky Mountain Site
+University of Alberta	Alexander Fair	Xander Fair	Rocky Mountain Site
+University of Calgary	UCalgary Spicy Papaya Sandwich	Nhu Di Nguyen, Taylor Wong, Allan Kong	Rocky Mountain Site
+University of Calgary	Don Laliberte	Don Laliberte	Rocky Mountain Site
+University of Calgary	UCalgary Performative Coders	Alec Franz Ferrer	Rocky Mountain Site
+Brigham Young University	BYU JW	Jed Woods	Rocky Mountain Site
+University of Calgary	UCalgary Irritator	Kenny Chau, Eduard Tsyvinskyi	Rocky Mountain Site
+University of Lethbridge	Josan Svenoor	Svenoor Josan	Rocky Mountain Site
+University of Alberta	Jerry Xu	Jerry Xu	Rocky Mountain Site
+University of Texas at Austin	vrooooom	Varun Ragunath	South Central USA Site
+University of Texas at Austin	weikatuo	Victor Liu	South Central USA Site
+University of Texas at Austin	pongo	Rafay Bughio	South Central USA Site
+University of Texas at Austin	adi	Aditya Dhanraj	South Central USA Site
+University of Texas at Austin	MeiZe #1 fan	Jonathan Yang	South Central USA Site
+University of Texas at Austin	washed	Neo Wang	South Central USA Site
+University of Texas at Austin	jialulol	victoria	South Central USA Site
+University of Texas at Austin	hastorius	Saadhya	South Central USA Site
+University of Texas at Austin	magikrap	Michael Xiang	South Central USA Site
+University of Texas at Dallas	Dp	Debangshu Pramanik	South Central USA Site
+University of Texas at Austin	indolent	Vincent Xia	South Central USA Site
+University of Texas at Dallas	George Z.	George Zhang	South Central USA Site
+University of Texas at Austin	sriramv	Sriram Venkatesh	South Central USA Site
+University of Texas at Austin	WalrusRamen	Warith Rahman	South Central USA Site
+St. Edward's University	Studwards	Zohaer Mahatab, Leonardo Guerrero, Josue Rodriguez	South Central USA Site
+University of Texas at Austin	alexc	Alex C	South Central USA Site
+University of Texas at Austin	sigma	Colin Stack	South Central USA Site
+University of Texas at Austin	randyg	Randy Guo	South Central USA Site
+University of Texas at Austin	Tun	Tanakorn Sookhanonsawat	South Central USA Site
+University of Texas at Austin	monke	Adam Zhu	South Central USA Site
+University of Texas at Austin	srikrishnab	Srikrishna Balaji	South Central USA Site
+University of Texas at Austin	edwardmeibiggestfan	Aiyaz Mostofa	South Central USA Site
+University of Texas at Austin	kev	Kevin Yang	South Central USA Site
+Lamar University	LU_RED	Andrew Davis, Bilal Maqsood, Gavin Plaunty, Jessis Allen, Brian Hoffpauir, Zoey Ludwig	South Central USA Site
+University of Texas at Austin	bubbarob19	Nicholas Robinson	South Central USA Site
+University of Texas at Austin	jsphile	Jason Xie	South Central USA Site
+University of Texas at Austin	name	Siddharth Narayan Umachandran	South Central USA Site
+University of Texas at Austin	yteam	Yuvraj Sahu	South Central USA Site
+ngmi bros	Steven Reese, Stephen Lajuwomi, Danny South, Javi Aghayev	South Central USA Site
+University of Texas at Austin	hamstertheprankster	Cosmo Wu	South Central USA Site
+University of Texas at Austin	hastoriusfan	Patrick Deng	South Central USA Site
+University of Texas at San Antonio	dekoding	Jonathan de Koning	South Central USA Site
+University of Texas at Austin	wgan-gp	Zafir Nasim	South Central USA Site
+University of Texas at Austin	gala	Hubert Yang	South Central USA Site
+St. Edward's University	Code RED	Jason Castillon, Ryan Aparicio, Mayukh Intesar Islam	South Central USA Site
+Northwestern State University of Louisiana	NSU std;	Natalie Sutton, Shannon Boone, Masen Starks	South Central USA Site
+University of Texas at Austin	Latibule	Srinivas Vadhiraj	South Central USA Site
+Northwestern State University of Louisiana	NSU A	Davyn Johnson, Madisyn Rippeon, Korbin Richard	South Central USA Site
+University of Texas at Austin	1234	Andrew Shi	South Central USA Site
+University of Texas at Austin	aqxa	Botao	South Central USA Site
+University of Texas at Austin	Trung Dang	Dylan Smith	South Central USA Site
+University of Texas at Austin	orang	Michael Xu	South Central USA Site
+University of Texas at Austin	WAKE UP	Thomas Vinh	South Central USA Site
+University of Texas at Dallas	GP	Ninh Giang Pham	South Central USA Site
+University of Texas at Austin	bobo	Sarthak Jain	South Central USA Site
+University of Texas at Austin	xorfftdp	Agniv Sarkar	South Central USA Site
+University of Texas at Austin	MeiZe #2 fan	Johnny Liu	South Central USA Site
+BTECCoders	Jonathan Durance, Sofia Glaus, Nicole Travers	South Central USA Site
+University of Texas at San Antonio	Martin	Martin Llano	South Central USA Site
+University of Texas at Austin	HunterMario	Hunter Scanlon	South Central USA Site
+Washington University in St. Louis	Jodie Xiao	Jodie Xiao	Mid-Central USA Site
+Washington University in St. Louis	Maki Nampei	Maki Nampei	Mid-Central USA Site
+University of Chicago	Pavlo	Pavlo Hrynevych	Mid-Central USA Site
+University of Chicago	Tianchi	Tianchi Zhang	Mid-Central USA Site
+University of Texas at Dallas	SXG	Stephen George	Mid-Central USA Site
+Washington University in St. Louis	Jason Tang	Jason Tang	Mid-Central USA Site
+Lipscomb University	Lipscomb Purple	Anton Salib, Rene Marius	Mid-Central USA Site
+Rhodes College	NullPointerException	Srijon Kumar Mondal, Soumitro Shovon Dwip, Aayan Pratim Deb	Mid-Central USA Site
+Washington University in St. Louis	Amaan Khan	Amaan Khan	Mid-Central USA Site
+University of Texas at Dallas	EZ	Ellison Zhu	Mid-Central USA Site
+Washington University in St. Louis	Sachin Agrawal	Sachin Agrawal	Mid-Central USA Site
+Lipscomb University	Team ERR	Jeremy Allison, Elliot Anderson, Ryan Kells	Mid-Central USA Site
+Knox College (Illinois)	Palmtrees	David Sulpice	Mid-Central USA Site
+University of Chicago	Angelo	Angelo Torres	Mid-Central USA Site
+University of Chicago	Hung	Hung Pham	Mid-Central USA Site
+Washington University in St. Louis	Jaxon Poentis	Jaxon Points	Mid-Central USA Site
+Washington University in St. Louis	Bryan Phan	Bryan Phan	Mid-Central USA Site
+Washington University in St. Louis	Yunhan Zhao	Yunhan Zhao	Mid-Central USA Site
+Washington University in St. Louis	Arjun Kalbag	Arjun Kalbag	Mid-Central USA Site
+University of Chicago	Aarav	Aarav Sonthalia	Mid-Central USA Site
+University of Chicago	AlanZ	Alan Zhao	Mid-Central USA Site
+Washington University in St. Louis	Sixing Zhuang	Sixing Zhuang	Mid-Central USA Site
+University of Chicago	Gulesh	Gulesh Shukla	Mid-Central USA Site
+Saint Louis University	SLU Billikens	Addison Thurston, Gihwan Jung, Sophia Huang	Mid-Central USA Site
+Saint Louis University	SLU White	Erin Kelley, Yeeon Ryu	Mid-Central USA Site
+University of Chicago	Siddharth	Siddharth Raj	Mid-Central USA Site
+Washington University in St. Louis	Kian Sharifi	Kian Sharifi	Mid-Central USA Site
+New York University	Poly 8	Andrew Wang	Greater NY Site
+Cornell University	Cornell - Beta	Joey Hansen, Guan Ze Chow, Makhmut Omar	Greater NY Site
+Columbia University	Columbia-103	Stanley Yuehchan Chung	Greater NY Site
+Columbia University	Columbia-15	Trevor Semeraro	Greater NY Site
+Rutgers University	Ah lep lep	Suhas Kondapalli	Greater NY Site
+New York University	Edward Huang	Edward Huang	Greater NY Site
+Columbia University	Columbia-78	Jonah Aden	Greater NY Site
+University of Minnesota	Morris 1	Tristan Kalvoda	Greater NY Site
+New York University	codeviber	Ray Li	Greater NY Site
+Columbia University	Columbia-50	Antonio Li	Greater NY Site
+Cornell University	Cornell Altruistic Algorithm	Tianrui Wang, Gordon Mei, Sameer Mehta	Greater NY Site
+Columbia University	Columbia-62	Yu Gu	Greater NY Site
+Columbia University	Columbia-82	Mark Hrytchak	Greater NY Site
+Columbia University	Columbia-27	Dan Lin	Greater NY Site
+Columbia University	Columbia-80	Kaiheng Dai	Greater NY Site
+Columbia University	Columbia-57	Amy Yu	Greater NY Site
+Columbia University	Columbia-74	Eldad Tolla	Greater NY Site
+Yale University	Yale Dolphin	Stephanie Wan	Greater NY Site
+New York University	FlappyHimself	FlappyBob	Greater NY Site
+Columbia University	Columbia-35	Andy Zhou	Greater NY Site
+Columbia University	Columbia-75	Fahad Aldosari	Greater NY Site
+Rutgers University	Zero questions solved.	Sanjeev Harikrishnan, Andy Chang, Rohit Bhagat	Greater NY Site
+Columbia University	Columbia-1	Joshua Bernheisel	Greater NY Site
+New York University	TheTravellingSalesman	Venkat Nikhil Kotagiri	Greater NY Site
+New York University	KathyNg	IOI IAN NG	Greater NY Site
+New York University	Haokai Ma	Haokai Ma	Greater NY Site
+Columbia University	Columbia-83	Nicolas Felix	Greater NY Site
+Columbia University	Columbia-90	Tristan Liu	Greater NY Site
+New York University	Poly 9	Kerry Huang	Greater NY Site
+Yale University	Yale Yurtles	Jaden Cohen, Raymon Zhang, Lewis Huh	Greater NY Site
+Columbia University	Columbia-14	Enrique Alverde	Greater NY Site
+New York University	Anthony Firth	suffixarray	Greater NY Site
+New York University	Poly 6	Chongtian Ma	Greater NY Site
+New York University	Aryan Yadav	Aryan Yadav	Greater NY Site
+Columbia University	Columbia-26	Lizette Hernandez	Greater NY Site
+Columbia University	Columbia-69	Celio Boulay	Greater NY Site
+Columbia University	Columbia-102	Srishti Singh	Greater NY Site
+Yale University	Yale AWE	Aryan Sharma, William Feng, Ethan Lou	Greater NY Site
+Columbia University	Columbia-81	Lam Ho	Greater NY Site
+Columbia University	Columbia-66	Ana-Maria Petcu	Greater NY Site
+Columbia University	Columbia-48	Crystal Su	Greater NY Site
+New York University	Kathy	IOI IAN NG	Greater NY Site
+Columbia University	Columbia-59	Hongyi Huang	Greater NY Site
+Yale University	Yale Whale	Benjamin Wu, Dieter Yang, David Wang	Greater NY Site
+Columbia University	Columbia-91	William Gu	Greater NY Site
+Columbia University	Columbia-73	Eusebiu-Rares Balasescu	Greater NY Site
+New York University	Tyler Ly	Tyler Ly	Greater NY Site
+Rutgers University	swirlycookie	Nicole Le	Greater NY Site
+Columbia University	Columbia-32	Kevin Jiahao Wang	Greater NY Site
+New York University	vibecoder	Sirui Li	Greater NY Site
+Columbia University	Columbia-34	Adrian Lee	Greater NY Site
+Columbia University	Columbia-38	Allen Andrew	Greater NY Site
+Columbia University	Columbia-10	Rohan Timmaraju	Greater NY Site
+Yale University	Yale Zookeepers	Mihai Esanu, Iulian-George Arsenoiu, Zeyu Nie	Greater NY Site
+Columbia University	Columbia-3	Innokentiy Kaurov	Greater NY Site
+Princeton University	Firephoenix16	Daniel Lu	Greater NY Site
+New York University	wow	Patrick Zhang, Patrick Zhang	Greater NY Site
+Columbia University	Columbia-65	Anthony Matanel Ginzburg	Greater NY Site
+Columbia University	Columbia-40	Kevin Zhang	Greater NY Site
+Arizona State University	Stack Breakers	Souradeep Banerjee	Rocky Mountain Site
+Arizona State University	Binary Falcons	Brandon Farrell	Rocky Mountain Site
+Arizona State University	Dynamic Exceptions	David Erchegyi	Rocky Mountain Site
+Louisiana State University	Purple-Gold	Isaac Traxler	South Central USA Site
+Washington University in St. Louis	Jonathan Rodriguez Gomez	Jonathan Rodriguez Gomez	Mid-Central USA Site
+Northwestern University	Northwestern Kellogg	Pu Yang	Mid-Central USA Site
+Stony Brook University	1lk	Jiarui Zhang	Greater NY Site
+Rutgers University	ceiram	Ceiron Dushyanthan	Greater NY Site
+Stony Brook University	Hello From the Other Side	Jerry Xiao	Greater NY Site
+Stony Brook University	Chicken pizza 123	Andrew Cheng	Greater NY Site
+Stony Brook University	Anachor	Pritom Kundu	Greater NY Site
+Princeton University	Washed	Vedant Badoni	Greater NY Site
+Rutgers University	The Windrunners	Aden Pereira	Greater NY Site
+Rutgers University	kevin	Kevin Yu	Greater NY Site
+Stony Brook University	Elements	Jonathan Jia	Greater NY Site
+Rutgers University	problemA	Ryan Sukhai, Matthew Ritsan	Greater NY Site
+Harvard University	Shreyan Paliwal	Shreyan Paliwal	Northeast North America Site
+Rensselaer Polytechnic Institute	Orz	Dylan Zhou, Philip Park, Joseph Park	Northeast North America Site
+Concordia University	Skye	Réa Mourad	Northeast North America Site
+Polaris	Annabel Kayla Talitha, Aditya Ilham Khairullah Seger, Jeremy Radase Dollyputra Nainggolan, Hayyan Ahmad Al Ghifary	East Central NA Site
+York University	Runtime Error	Amirali Akef, Sina Akhavansafar, Mani Fatemi	East Central NA Site
+UTM3	Beself Lan	East Central NA Site
+UTM7	Parv Agrawal, Wahib Barqawi	East Central NA Site
+Ohio State University	Arnav Kumar	Arnav Kumar	East Central NA Site
+UTM4	Dipal Hingorani, Mike Peng	East Central NA Site
+University of Michigan	Spare 1	Dennis Matveyev	East Central NA Site
+UTM6	Bhagatinder Longia, Aryan Garg, Alex Meng	East Central NA Site
+Purdue University	dqvn	Arinjay Basak	East Central NA Site
+University of California, Irvine	UCI Jayden Gets Zero	Jayden Sungjin Entenmann	Southern California Site
+University of California, Irvine	UCI test1	Dhruv Kothari	Southern California Site
+University of California, Irvine	UCI hxh hisoka	Albert Yuan	Southern California Site
+Cornell University	Minh Phams	Carrie Chen, Eric Yachbes	Greater NY Site
+Columbia University	Columbia-86	Sai Dinesh Chintaginjala	Greater NY Site
+Columbia University	Columbia-101	Song Li	Greater NY Site
+Columbia University	Columbia-49	Matthew Lou	Greater NY Site
+Columbia University	Columbia-98	Kamal Alasgarli	Greater NY Site
+New York University	Andrew Li	Andrew Li	Greater NY Site
+Columbia University	Columbia-85	Qinyu Ge	Greater NY Site
+Yale University	Yale Bumblebee	Vishak Srikanth, Lejun Deng, Frank Wong	Greater NY Site
+Columbia University	Columbia-104	Tiancheng Ge	Greater NY Site
+New York University	Poly 3	Aniruthan Rajendran	Greater NY Site
+Princeton University	Princeton 1	Bryan Zhang, Vincent Cai, Sandy Zhang	Greater NY Site
+Columbia University	Columbia-88	Srabon Kumar Nath	Greater NY Site
+Columbia University	Columbia-20	Jiaming Liu	Greater NY Site
+Columbia University	Columbia-28	Kevin Wu	Greater NY Site
+Columbia University	Columbia-67	Hidden User	Greater NY Site
+New York University	Julian Ramirez	Julian Ramirez	Greater NY Site
+New York University	Poly 4	Pranjal Minocha	Greater NY Site
+Columbia University	Columbia-31	Austin Senna Wijaya	Greater NY Site
+New York University	Poly 1	jing	Greater NY Site
+Columbia University	Columbia-21	Yui Kan Kong	Greater NY Site
+New York University	Pranjal	Pranjal Minocha	Greater NY Site
+Columbia University	Columbia-99	Mei Yue	Greater NY Site
+Columbia University	Columbia-97	Hao Zou	Greater NY Site
+Columbia University	Columbia-16	Eric Shao	Greater NY Site
+Columbia University	Columbia-96	Himanshu Jhawar	Greater NY Site
+Columbia University	Columbia-24	Duncan Greene	Greater NY Site
+New York University	Nilarnab-Real	Nilarnab Debnath	Greater NY Site
+Columbia University	Columbia-33	Kevin Fei Xia	Greater NY Site
+Columbia University	Columbia-8	Kristofer Bjornsson	Greater NY Site
+Columbia University	Columbia-45	Nikash Roy Das	Greater NY Site
+New York University	3y5ersgdf	Ruby Ocelot	Greater NY Site
+Columbia University	Columbia-79	Junhao Qu	Greater NY Site
+Columbia University	Columbia-64	Askar Kurmanov	Greater NY Site
+Columbia University	Columbia-72	Sean Dongwoo Kim	Greater NY Site
+Columbia University	Columbia-68	Angel Wu	Greater NY Site
+Columbia University	Columbia-18	Austin Yang	Greater NY Site
+Columbia University	Columbia-37	Sebastian Horta	Greater NY Site
+Columbia University	Columbia-94	Alexa Kafka	Greater NY Site
+Columbia University	Columbia-25	Srishaan Iyengar	Greater NY Site
+Columbia University	Columbia-22	Henry Li	Greater NY Site
+Columbia University	Columbia-84	Paul David Kearns	Greater NY Site
+Columbia University	Columbia-47	Aryaman Velampalli	Greater NY Site
+Columbia University	Columbia-4	Xingyu Lan	Greater NY Site
+Rutgers University	snowythecat	Timothy Wu	Greater NY Site
+Columbia University	Columbia-92	Akshat Bhandari	Greater NY Site
+Columbia University	Columbia-46	Hidden User	Greater NY Site
+Columbia University	Columbia-100	Reid Anthony Metoyer	Greater NY Site
+Columbia University	Columbia-43	Aaditya Shivprakash Barve	Greater NY Site
+Columbia University	Columbia-71	Dev Gehlaut	Greater NY Site
+Columbia University	Columbia-5	Mihir Agarwal	Greater NY Site
+Columbia University	Columbia-2	Xincheng Yu	Greater NY Site
+New York University	Aritro	Aritro Roy	Greater NY Site
+Columbia University	Columbia-30	Grace Madison	Greater NY Site
+Columbia University	Columbia-13	Yiru Liu	Greater NY Site
+New York University	Peiliang Liu	Peiliang Liu	Greater NY Site
+Columbia University	Columbia-87	Sayem Kamal	Greater NY Site
+Cornell University	Cornell - Alpha	Nathan Ballman, Nhat Le, Junkai Huang	Greater NY Site
+Yale University	Yale Penguin	Henry Burton	Greater NY Site
+New York University	Poly 2	Sankalp Ramesh	Greater NY Site
+Columbia University	Columbia-7	Ehsan	Greater NY Site
+New York University	jay_kaoshik	Jay Nitin Kaoshik	Greater NY Site
+Columbia University	Columbia-70	Chih-Hsin Chen	Greater NY Site
+Columbia University	Columbia-60	Andrew Chung	Greater NY Site
+Columbia University	Columbia-41	Shanying Liu	Greater NY Site
+Columbia University	Columbia-36	Sohum Vinayadithya Belagode	Greater NY Site
+Columbia University	Columbia-23	Xian Jiang	Greater NY Site
+Columbia University	Columbia-93	Alex Cristian	Greater NY Site
+Columbia University	Columbia-76	Grace Lim	Greater NY Site
+New Jersey Institute of Technology	foo	Berat Yigit, Dominic Attalienti, Nino Chkhaidze, Atif Ejazi	Greater NY Site
+University of Minnesota	Silksanity	Anton Olson, Owen Beyer, James Swearingen	Greater NY Site
+New York University	Poly 5	Ata Erdal Yazgan	Greater NY Site
+Columbia University	Columbia-19	Yunchen Yuan	Greater NY Site
+Columbia University	Columbia-11	Shreyes Kaliyur	Greater NY Site
+Columbia University	Columbia-63	Alexandru Iulius Jerpelea	Greater NY Site
+Columbia University	Columbia-56	Songwen Zhao	Greater NY Site
+Columbia University	Columbia-77	Jeremy Davoodzadeh	Greater NY Site
+Columbia University	Columbia-89	Shriya Mahakala	Greater NY Site
+Columbia University	Columbia-12	Alex Oh	Greater NY Site
+Columbia University	Columbia-42	Noah Taliercio	Greater NY Site
+Columbia University	Columbia-61	Marsel Nagimov	Greater NY Site
+Columbia University	Columbia-44	Sahethi DG	Greater NY Site
+New York University	Mayank Garg	Mayank Garg	Greater NY Site
+Yale University	Yale Butterfly	Arthur Gilfanov	Greater NY Site
+Rutgers University	Yellow Jackets	Nadya Belova	Greater NY Site
+Columbia University	Columbia-39	Zev McManus-Mendelowitz	Greater NY Site
+Rutgers University	CutSandstone	CutSandstone E	Greater NY Site
+Yale University	Yale Squirrel	Bill Qian	Greater NY Site
+Yale University	Yale Monkey	Stephen Xia, Samuel Chen, Jack Yin	Greater NY Site
+Stony Brook University	RoNE	E Ro Nguyen (E-Ro)	Greater NY Site
+City University of New York	Cooked++	Nakib Abedin, Tedd Lee, Alif Rahman	Greater NY Site
+Columbia University	Columbia-17	Shivam Chaturvedi	Greater NY Site
+Rutgers University	dbaumg	Daniel Baumgartner	Greater NY Site
+Columbia University	Columbia-6	Kenny Frias	Greater NY Site
+Columbia University	Columbia-95	Haaris Arslan Mian	Greater NY Site
+Columbia University	Columbia-58	Ryan Maxwell Sherby	Greater NY Site
+Yale University	Yale Ladybug	Hidden User, Ruben Carpenter, Jiakang Chen	Greater NY Site
+Columbia University	Columbia-9	Roy Hwang	Greater NY Site
+New York University	Poly 7	Mohammad Alyousef	Greater NY Site
+Columbia University	Columbia-29	Trisha Maturi	Greater NY Site
+New York University	Poly 11	Krish Jani	Greater NY Site
+University of Montreal	UdeM 4	Victorio Nascimento, Oscar Parent, Cassandre Hamel	Northeast North America Site
+Rochester Institute of Technology	RIT 31	Dileep Sharma	Northeast North America Site
+McGill University	mcgill134	Dylan Telio	Northeast North America Site
+Rochester Institute of Technology	RIT 16	Dongze Lu	Northeast North America Site
+McGill University	mcgill121	Yejia Shen	Northeast North America Site
+McGill University	mcgill3	Cesar Gonzalez	Northeast North America Site
+Rochester Institute of Technology	RIT 21	Shivani Hancock	Northeast North America Site
+McGill University	mcgill25	Edison Thai, eric deng, james liang	Northeast North America Site
+McGill University	mcgill46	Shi Xie, Kelly Zhong	Northeast North America Site
+McGill University	mcgill12	Sivabalan Muthurajan, Jamie Xiao, Ziyi Zhao	Northeast North America Site
+McGill University	mcgill108	Ariba Ahmed	Northeast North America Site
+McGill University	mcgill50	Christopher Balut, Issam Houili	Northeast North America Site
+Rochester Institute of Technology	RIT 29	Cole Stowell	Northeast North America Site
+McGill University	mcgill28	Liurui Xu, Alex Fei, Dustin Zuo	Northeast North America Site
+Rochester Institute of Technology	RIT 35	Yujin Lee	Northeast North America Site
+McGill University	mcgill117	Rama El Kebbi	Northeast North America Site
+Rochester Institute of Technology	RIT 24	Rahel Arka, Sean O'Donnell, Matthew Chen	Northeast North America Site
+McGill University	mcgill44	Gabriella Tartaglia, Rachel Craite, Daria Vorsina	Northeast North America Site
+McGill University	mcgill67	Duru Aran, Deniz Emre	Northeast North America Site
+Northeastern University	Dart Goggins	Jenish Sunil Kothari, Harshul Dilish	Northeast North America Site
+McGill University	mcgill23	Fiona Zhao, Catherine Zhu, Yi Ran Li	Northeast North America Site
+McGill University	mcgill84	Sanghyun Hong	Northeast North America Site
+Boston University	Aterriers	Mutiraj Laksanawisit	Northeast North America Site
+McGill University	mcgill56	Jun Kai Liao	Northeast North America Site
+McGill University	mcgill130	Aiden Hua	Northeast North America Site
+Wellesley College	Blue1	Kailyn Lau, Elsa Frankel, Jessalyn Liang, Elizabeth James	Northeast North America Site
+McGill University	mcgill99	Shenglei Sun	Northeast North America Site
+Rochester Institute of Technology	RIT 33	Atharv Kothekar, Ali Ahmad	Northeast North America Site
+Boston University	Kterriers	Daniel Xiao	Northeast North America Site
+Harvard University	Real Madrid	Deyan Hadzhi-Manich	Northeast North America Site
+Wellesley College	Blue2	Victoria Lee, Linda Su, Shang Shi, Crystal McArdle-Ventura	Northeast North America Site
+Northeastern University	Hog 2.6	Ayaan Imtiaz, Lyuxiong Zhang, Anna Shrestha	Northeast North America Site
+Boston University	Jterriers	Jason Qiu	Northeast North America Site
+University of Rochester	Rochester #12	Phuc Le	Northeast North America Site
+McGill University	mcgill90	Sara Shaikh, Jana Shokr, William Li	Northeast North America Site
+McGill University	mcgill14	Hanson Yang, Shon Cherniavsky, Oliver D'Avino	Northeast North America Site
+Rochester Institute of Technology	RIT 6	Rishaad Khan	Northeast North America Site
+Concordia University	Teammmm	Simon Foo	Northeast North America Site
+Rochester Institute of Technology	RIT 28	Yajna Pandith	Northeast North America Site
+McGill University	mcgill57	Jason_Xiao, Nour Aldeghly, Ayman Abtahi	Northeast North America Site
+McGill University	mcgill68	Alessandro Pomponi	Northeast North America Site
+McGill University	mcgill126	Kevin X	Northeast North America Site
+Brown University	Brown NAQ Team 4	Jesus Rodriguez, Zhao Yan, Miles Zhang	Northeast North America Site
+McGill University	mcgill119	Shiyan Liu	Northeast North America Site
+McGill University	mcgill37	olivia cardillo, vivek thaker	Northeast North America Site
+University of Rochester	Rochester #3	Lam Pham	Northeast North America Site
+McGill University	mcgill58	junjie sun, Zhiyu Yan, Sihan Qin	Northeast North America Site
+University of Rochester	Rochester #5	Anish Katam	Northeast North America Site
+Rensselaer Polytechnic Institute	The Segfaults	Jake Salzman, Elena Berman, Margo VanEsselstyn	Northeast North America Site
+Rochester Institute of Technology	RIT 19	Sam Cordry, Lilyan McCracken	Northeast North America Site
+McGill University	mcgill101	Martin Tarraube	Northeast North America Site
+McGill University	mcgill45	Nancy Xiao, Ecaterina Gorasciuc, Yunjiao Fan	Northeast North America Site
+Mount Allison University	Monty Python's The Meaning Of elif	Matya Stavnitzky, Isaac Lee, Amy Colpitts	Northeast North America Site
+McGill University	mcgill65	Vlad Matei Rusu, Talia Labute	Northeast North America Site
+University of Rochester	Rochester #11	Rory Brennan-Jones	Northeast North America Site
+Rochester Institute of Technology	RIT 22	Saksham Goel, Jie Chen, Andrew Herrera	Northeast North America Site
+Northeastern University	TBD	Ryan Zhu	Northeast North America Site
+McGill University	mcgill136	Nadav Boyd	Northeast North America Site
+University of Rochester	Rochester #1	Mehyar Salem	Northeast North America Site
+Olin College of Engineering	Olin Engineers 2	Joseph Vazhaeparampil, Iris Tang, Hong Yi Zhang	Northeast North America Site
+Rochester Institute of Technology	RIT 14	Safwan Abdelkarim	Northeast North America Site
+Boston University	Hterriers	Ian Ding	Northeast North America Site
+Rochester Institute of Technology	RIT 13	Adil Khan, Naresh Samaroo, Raiyan Labeeb	Northeast North America Site
+McGill University	mcgill116	Kenneth Xu	Northeast North America Site
+McGill University	mcgill70	Oscar Tesniere	Northeast North America Site
+Massachusetts Institute of Technology	letmeregister8	Teimurazi Toloraia, Duru Ozer, Ansis Andersons	Northeast North America Site
+McGill University	mcgill62	Louis Stalet, lucas fernandes	Northeast North America Site
+Massachusetts Institute of Technology	letmeregister3	Ditbul Ban, Kshitij Sodani, Zixiang Zhou	Northeast North America Site
+Massachusetts Institute of Technology	letmeregister6	Balint Rozsa, Larry Xing, Austin Geng	Northeast North America Site
+Rochester Institute of Technology	RIT 38	Isaac Benjamin, Miles Todtfeld, Elijah Lederman	Northeast North America Site
+University of Montreal	UdeM 5	Youssef Briki, Rayyan Oumlil, Zouhair El Yani	Northeast North America Site
+Rochester Institute of Technology	RIT 8	Jacky Huang	Northeast North America Site
+McGill University	mcgill96	Daniel Ramos, Wei-Sen Wang	Northeast North America Site
+Olin College of Engineering	Olin Engineers 1	Jack Wei, Hazel Sudzilouski, Xavier Nishikawa	Northeast North America Site
+McGill University	mcgill135	Debojyoti Biswas	Northeast North America Site
+McGill University	mcgill89	Hidden User, Hidden User	Northeast North America Site
+Northeastern University	Log Bait	Moritz Kohlenz, Azhar Abdulla, Mingqi Lu	Northeast North America Site
+University of Rochester	Rochester #18	Triet Ly	Northeast North America Site
+McGill University	mcgill104	Ayoub Sabri, Perry Santry	Northeast North America Site
+McGill University	mcgill30	Walid Kassab	Northeast North America Site
+Rochester Institute of Technology	RIT 32	Nick Sherozia	Northeast North America Site
+Rochester Institute of Technology	RIT 20	Alex Sharpe, Zoey Lapidus, Sophia Robinson	Northeast North America Site
+Dalhousie University	The Final Symphony	Sebastian Elias Dionicio, HOANG LE, Hassan Chowdhry	Northeast North America Site
+University of Montreal	UdeM 1	Alexandre Charland	Northeast North America Site
+Massachusetts Institute of Technology	letmeregister5	Fares Pasuni, Adeeb Alshehry, Mohammad Hafez	Northeast North America Site
+Concordia University	Hello123	Mehrzad Minaei Bidgoli	Northeast North America Site
+Rochester Institute of Technology	RIT 10	Xander Bhalla	Northeast North America Site
+McGill University	mcgill61	Benjamin Ghaderi	Northeast North America Site
+McGill University	mcgill82	Clara Ghenassia, Sonia Reehal	Northeast North America Site
+Rensselaer Polytechnic Institute	Potatoto	Matthew Durcan, Jaden Tian	Northeast North America Site
+McGill University	mcgill85	Cesar Peralta	Northeast North America Site
+McGill University	mcgill76	Charles Z, Danyl Satanovskyi, Ricky G	Northeast North America Site
+McGill University	mcgill32	Nikola Katov	Northeast North America Site
+University of Texas at Austin	Techno Tacticians	Phuc Dinh	South Central USA Site
+University of Texas at San Antonio	Paul Berend	Paul Berend	South Central USA Site
+University of Texas at Dallas	TS	Tharun Sevvel	South Central USA Site
+University of Texas at Austin	meize	Edward Mei	South Central USA Site
+University of Texas at Austin	troy	Troy Nguyen	South Central USA Site
+Washington University in St. Louis	Ryan Zhang	Ryan Zhang	Mid-Central USA Site
+Saint Louis University	SLU Blue	Jake Bounds, Charlie Wells	Mid-Central USA Site
+Washington University in St. Louis	Yaroslav Parashchiy	Yaroslav Parashchiy	Mid-Central USA Site
+University of Texas at Dallas	QMP	Quan Pham	Mid-Central USA Site
+Washington University in St. Louis	Coco Zhan	Coco Zhan	Mid-Central USA Site
+University of Chicago	Tipireddy	Tipireddy Reddy	Mid-Central USA Site
+Washington University in St. Louis	Jevin Lin	Jevin Lin	Mid-Central USA Site
+University of Texas at Dallas	TTV	Tan Vo	Mid-Central USA Site
+Rose-Hulman Institute of Technology	RHIT Shredded Nerds	Avi Kapila, Jack Tanner, Sanandan Sashikumar	Mid-Central USA Site
+University of Chicago	Nalin	Nalin Prabhath Annapareddy	Mid-Central USA Site
+Washington University in St. Louis	Juliana Shi	Juliana Shi	Mid-Central USA Site
+University of Chicago	Geno	Geno Lewis	Mid-Central USA Site
+University of Chicago	Gafur	Gafur Mammadov	Mid-Central USA Site
+Northern Kentucky University	NKU_TEAM1	Evan Hinsdale	Mid-Central USA Site
+Washington University in St. Louis	Alexander Yang	Alexander Yang	Mid-Central USA Site
+University of Chicago	Christian	Christian Neisler	Mid-Central USA Site
+University of Chicago	Andrii	Andrii Romanov	Mid-Central USA Site
+Rose-Hulman Institute of Technology	RHIT MATY	Mason Wiedow, Thiago Costa, Yujin Sung	Mid-Central USA Site
+Minnesota State University Moorhead	MSUM	Taytum Nelson, Shahnoor Chowdhury	Mid-Central USA Site
+Washington University in St. Louis	Eason Zhao	Eason Zhao	Mid-Central USA Site
+University of Chicago	Bach	Bach Tran	Mid-Central USA Site
+Washington University in St. Louis	Tenny Dibooglu	Tenny Dibooglu	Mid-Central USA Site
+University of Texas at Dallas	Quang	Quang Nhat Ngo	Mid-Central USA Site
+Washington University in St. Louis	Andrew Haas	Andrew Haas	Mid-Central USA Site
+Webster University	gorlok 2	Jonathan Neukomm	Mid-Central USA Site
+University of Chicago	Khanh	Khanh Nguyen	Mid-Central USA Site
+Rhodes College	O(1)	Allen Osoinach, Caleb Walters, Remy Bozung	Mid-Central USA Site
+Washington University in St. Louis	Hans Deng	Hans Deng	Mid-Central USA Site
+Rhodes College	Runtime Terrors	Golam Hisham, Daniel Villamil, Hidden User	Mid-Central USA Site
+Southeast Missouri State University	SEMOProgramming	Zequn Yuan, Emily Catherine Jeffcott , Ryan Fitzgerald	Mid-Central USA Site
+Milwaukee School of Engineering	MSOE	Paxson Gottschalk, John Doe, Xander Ede	Mid-Central USA Site
+University of Chicago	Jack	Jack Wilson	Mid-Central USA Site
+University of Chicago	Long	Long Nguyen	Mid-Central USA Site
+University of Chicago	Alex R	Alex Rao	Mid-Central USA Site
+Rose-Hulman Institute of Technology	RHIT Mateo & Co	Harrison Carpenter, Kaelin Wang Hu, Tristan Cohen-Rider	Mid-Central USA Site
+Washington University in St. Louis	Wonjun Kim	Wonjun Kim	Mid-Central USA Site
+Webster University	gorlok 1	Neon Ssewanyana, Kushal Shrestha	Mid-Central USA Site
+University of Chicago	Luis	Luis Heysen	Mid-Central USA Site
+Washington University in St. Louis	Bowen Zhao	Bowen Zhao	Mid-Central USA Site
+University of Kentucky	uky-blue	Brendan White, Andrew Tapia, Andrew Tapia, Sing Hieng Wong, Benjamin Carey	Mid-Central USA Site
+University of Texas at Dallas	Kiok	Josiah Kiok	Mid-Central USA Site
+University of Texas at Dallas	Matthew	Matthew Sheldon	Mid-Central USA Site
+Tennessee State University	Golden Sunshine	Andrew LeClair	Mid-Central USA Site
+Knox College (Illinois)	Di	Phuc, Tan Le	Mid-Central USA Site
+University of Chicago	John JM	John Marchetta	Mid-Central USA Site
+Washington University in St. Louis	IC1	Ronak	Mid-Central USA Site
+McGill University	mcgill92	Fadi Rasmy	Northeast North America Site
+University of Montreal	UdeM 7	Ismail Aarab, Elimelach Lowen, Mathieu Lemire	Northeast North America Site
+McGill University	mcgill40	Ronald Zhang, James Huang, Edmand Yu	Northeast North America Site
+Massachusetts Institute of Technology	letmeregister2	Yuki Tanaka	Northeast North America Site
+McGill University	mcgill97	Olivier Lucas-Girardville	Northeast North America Site
+McGill University	mcgill63	Charles-Étienne Lessard, Charles-Étienne Fréchette	Northeast North America Site
+McGill University	mcgill115	Tristan Winfield-Hicks	Northeast North America Site
+Concordia University	Heap Heap Hooray	Denis Pankratov	Northeast North America Site
+McGill University	mcgill33	David Bosnjak	Northeast North America Site
+Harvard University	Benjamin Mujkic	Benjamin Mujkic	Northeast North America Site
+McGill University	mcgill75	Eric Hu	Northeast North America Site
+McGill University	mcgill94	Prisha Manek, Jad Kabbani, William Zhang	Northeast North America Site
+University of Montreal	UdeM 2	Julien-Charles Cyr, Samuel Maltais, Alexandre Dewilde	Northeast North America Site
+Rochester Institute of Technology	RIT 25	Vincy Cai	Northeast North America Site
+Boston University	Bterriers	Manny Wang	Northeast North America Site
+McGill University	mcgill118	Murad Ismayilov	Northeast North America Site
+Concordia University	Conco256	Jainam Shah	Northeast North America Site
+McGill University	mcgill39	Juba Oucherif	Northeast North America Site
+McGill University	mcgill123	Yu Tong Wei	Northeast North America Site
+Rochester Institute of Technology	RIT 37	Neha Rani, Samhita Gadamsetty, Amrithavarshinee Sriram	Northeast North America Site
+Northeastern University	Bridge Spam	Tenshi, Brady, Daniel Long	Northeast North America Site
+Massachusetts Institute of Technology	letmeregister7	Kyle Fu	Northeast North America Site
+McGill University	mcgill83	Emily Zhang	Northeast North America Site
+Rochester Institute of Technology	RIT 17	Justin Saginor, Nate McKay, Lily Romanowski	Northeast North America Site
+McGill University	mcgill109	Alec Larbrisseau	Northeast North America Site
+McGill University	mcgill6	William Blain	Northeast North America Site
+McGill University	mcgill110	Ana Torres Bejarano	Northeast North America Site
+Rensselaer Polytechnic Institute	Tre'VaughnQuavious	Ethan Balakumar, Zachary Silverstein, Nilay Kapadia	Northeast North America Site
+McGill University	mcgill69	Fenghua Li, Anisa Hashemi	Northeast North America Site
+McGill University	mcgill131	Lucas Venugopal	Northeast North America Site
+McGill University	mcgill79	Luke Wang, Hadrien Padilla, Eric Zhao	Northeast North America Site
+McGill University	mcgill18	Julien Yang, Noah Vaillancourt, Jennifer You	Northeast North America Site
+Boston University	Lterriers	Michael French	Northeast North America Site
+McGill University	mcgill100	Stavros Marinakis, Panagiotis Barlogiannis	Northeast North America Site
+McGill University	mcgill24	Eliza Toma	Northeast North America Site
+Ashland University	AUPurple	Robert Pope II, Benjamin Berglund, Dhruval Anandkar	Northeast North America Site
+University of Rochester	Rochester #16	Tyler Waltner	Northeast North America Site
+Rochester Institute of Technology	RIT 3	Alexander Day	Northeast North America Site
+Rochester Institute of Technology	RIT 12	Robert Orbin	Northeast North America Site
+McGill University	mcgill120	Xinkai Huang	Northeast North America Site
+McGill University	mcgill103	Elise Jiang	Northeast North America Site
+McGill University	mcgill78	Beatrice, Maxime Courchesne, Zachary Trouve	Northeast North America Site
+Rochester Institute of Technology	RIT 26	Henil Brahmbhatt	Northeast North America Site
+University of New Brunswick	UNBSJ - Team 2	Zion Veirat Jean Dadu, Sofiri Jaja, Ben Foster	Northeast North America Site
+McGill University	mcgill124	Leon Pedenon	Northeast North America Site
+McGill University	mcgill102	Thomas Lewis	Northeast North America Site
+McGill University	mcgill47	Moeez Muhammad	Northeast North America Site
+University of Rochester	Rochester #14	Langston Woods	Northeast North America Site
+University of Rochester	Rochester #10	Nigel Nguyen	Northeast North America Site
+McGill University	mcgill51	Arnauld Binder, Dmitri Lvovich, Raphaël Michnik	Northeast North America Site
+Memorial University of Newfoundland	MUN ONE	Zuhair Mehdee	Northeast North America Site
+McGill University	mcgill60	Hunter Wei, Jason Qi	Northeast North America Site
+Rochester Institute of Technology	RIT 1	Jatin Jain	Northeast North America Site
+University of Rochester	Rochester #4	Sanchit Somani	Northeast North America Site
+Brown University	Brown NAQ Team 3	William Wang, Sriniketh Vangaru, Joshua Kou	Northeast North America Site
+McGill University	mcgill21	Mingruifu Lin, Fangrui Xu, Brandon Ku	Northeast North America Site
+McGill University	mcgill73	Vanshika Makkar, Adam Fuzesi, Kevin Kuruvilla	Northeast North America Site
+McGill University	mcgill41	Marco Lipari, Ales Laiche, Cody Petrone	Northeast North America Site
+Mount Allison University	MTA KattisKrackers	Serena Davis, Derin Önder Eren, Joshua Musa	Northeast North America Site
+Rochester Institute of Technology	RIT 18	Rohan Rasane	Northeast North America Site
+McGill University	mcgill34	Hidden User	Northeast North America Site
+Harvard University	239 on the road	Aleksandr Belotserkovtsev	Northeast North America Site
+McGill University	mcgill86	June Gao, Iva Ivanovska, Annie Jakes-McKay	Northeast North America Site
+McGill University	mcgill105	Emmanuelle Lin	Northeast North America Site
+McGill University	mcgill71	Hidden User	Northeast North America Site
+Boston University	Cterriers	kaihan zhang	Northeast North America Site
+McGill University	mcgill88	Eamon Langlais, Nicolas Kraetz, Caroline Chueh	Northeast North America Site
+McGill University	mcgill36	Hristo Sandev, Joey Yu, Jeff Zhang	Northeast North America Site
+McGill University	mcgill38	Ryan Zhao	Northeast North America Site
+McGill University	mcgill10	Hidden User	Northeast North America Site
+Rochester Institute of Technology	RIT 11	Meghan Black	Northeast North America Site
+Rochester Institute of Technology	RIT 15	XuanTing Lin	Northeast North America Site
+McGill University	mcgill125	Jimmy Xu	Northeast North America Site
+McGill University	mcgill107	Peter Zhang, Peng Zhang, Bohan Wang	Northeast North America Site
+McGill University	mcgill11	Alexandre Lamarche, Antoine Paradis	Northeast North America Site
+Rochester Institute of Technology	RIT 5	Akhil Palepally	Northeast North America Site
+University of Rochester	Rochester #13	Tingxuan Zhu	Northeast North America Site
+McGill University	mcgill91	Aditya Sharma	Northeast North America Site
+McGill University	mcgill49	Eric Shi, Daniel Wei, Benjamin Gurevitch	Northeast North America Site
+McGill University	mcgill7	William Wang, Walid Menou	Northeast North America Site
+Boston University	Gterriers	Rinat Rizvanov	Northeast North America Site
+McGill University	mcgill133	Félix Martel	Northeast North America Site
+McGill University	mcgill53	Shida Zheng, Yu-Xin Huang, Steven Zhang	Northeast North America Site
+Rensselaer Polytechnic Institute	David	David Wang	Northeast North America Site
+McGill University	mcgill113	Oliver Mcdonald	Northeast North America Site
+Harvard University	Barvard	Zein Alabdeen Zammar	Northeast North America Site
+McGill University	mcgill77	Evelyn Tromp, Daniel Cho	Northeast North America Site
+McGill University	mcgill106	Lucas Wu, Yutong Wang, Alice Zeng	Northeast North America Site
+McGill University	mcgill80	Félix Ciungara, Vinh Huynh, Raphaël Duy Phong Vo	Northeast North America Site
+Brown University	Brown NAQ Team 2	Nikolas Nemergut, Amil Agrawal	Northeast North America Site
+University of New Brunswick	UNBSJ - Team 1	Nicolas Serrano, Benjamin Talbot, Sumitr Banik	Northeast North America Site
+Rochester Institute of Technology	RIT 7	Uzair Mukadam	Northeast North America Site
+McGill University	mcgill22	Huaipu Kang, Othmane El Mariky	Northeast North America Site
+University of Rochester	Rochester #2	Josie Elliston	Northeast North America Site
+Northeastern University	Sneaky Golem	Matt Cheng, Eric Chen	Northeast North America Site
+University of Rochester	Rochester #7	Jack Brandon	Northeast North America Site
+McGill University	mcgill43	Edouard Perrault, Ryan Young, Arthur Huang	Northeast North America Site
+McGill University	mcgill54	Mert Cezar, Jason Omer	Northeast North America Site
+McGill University	mcgill48	Hoi Kin Chiu	Northeast North America Site
+Massachusetts Institute of Technology	I WILL PARTICIPATE AS BOTH CONTESTANT AND COACH.	Jaehyun Koo	Northeast North America Site
+McGill University	mcgill5	Nathan Katov	Northeast North America Site
+University of Rochester	Rochester #8	Asilbek Ismatilloev	Northeast North America Site
+McGill University	mcgill19	Matt Montembeault, Nerina An	Northeast North America Site
+Massachusetts Institute of Technology	letmeregister4	Kangyang Zhou, Jiangqi Dai, Cheng Jiang	Northeast North America Site
+McGill University	mcgill122	Michèle Sossou	Northeast North America Site
+St. Cloud State University	Huskies	Faesal Okanlawon, Salmaan Shire	North Central NA Site
+University of Minnesota	UofM_2025_3	Stanley Wang	North Central NA Site
+University of Wisconsin–Madison	B-Tree	Tan Bui, Tai Nguyen, Ishan Joshi	North Central NA Site
+Dakota State University	Traceback (most recent call last)	Iurii Chmykhun, Ethan Clark, Joshua Ganschow	North Central NA Site
+University of Minnesota	Yao	Alex Yao	North Central NA Site
+Iowa State University	Nazarke Aidarbek	Nazerke Aidarbek	North Central NA Site
+University of Northern Iowa	UNI Purple	Phat Nguyen, Spenser Mochal, Denis Dabaev	North Central NA Site
+University of Minnesota	UofM_2025_2	Jeffrey Hu	North Central NA Site
+University of Minnesota	Sonsare	Mohnish Sonsare	North Central NA Site
+Northwestern College (Iowa)	NWC2	Hidden User	North Central NA Site
+Michigan Technological University	MTU Orange	James Inman, Peter Lafreniere, Matthew Harrelson	North Central NA Site
+University of Wisconsin–Madison	I(Can)tProgramCorrectly	Gil Friedman, Charles Ding, Anna Sun	North Central NA Site
+Iowa State University	Elijak Zimmerly	Elijah Zimmerly	North Central NA Site
+Iowa State University	Ayaan Syed	Ayaan Musa Syed	North Central NA Site
+University of Wisconsin–Madison	badgerz	Connor Simms, Samad Syed, Pranav Avadhanam	North Central NA Site
+Iowa State University	Hanyu Ning	Hanyu Ning	North Central NA Site
+Dakota State University	Big Ballers	Kush Shrestha, Smaran Pokharel, Prashun Kafle	North Central NA Site
+University of Wisconsin–Madison	Master Debaters	HuaiYuan Jing, VINCENT CIMINO, Merlin Morton	North Central NA Site
+Michigan Technological University	MTU Green	Andrew Toshchakov, Valentin Ravotti, Chase Alfrey	North Central NA Site
+University of Minnesota	UofM_2025_1	Yehor Zharikhin	North Central NA Site
+University of Minnesota	UofM_2025_6	Wenyue Zhang	North Central NA Site
+Iowa State University	Joel Wickert	Joel Wickert	North Central NA Site
+Michigan Technological University	MTU Yellow	Hayden Yochim, Charles Berghoef, Parker Bauer	North Central NA Site
+Concordia University, Nebraska	Silas Curtis	Silas Curtis	North Central NA Site
+University of Minnesota	Mundada	Akul Mundada	North Central NA Site
+University of Toronto	Andrew P	Andrew Peng	East Central NA Site
+Ohio State University	Ragav Janardhan	Ragav Janardhan	East Central NA Site
+University of Toronto	Zhengyu W	Zhengyu Wang	East Central NA Site
+University of Michigan	Retired and Tired	Jubayer Nirjhor	East Central NA Site
+University of Michigan	Maize and Bits	Saachi Tewari	East Central NA Site
+University of Michigan	Justin Hu	Justin Hu	East Central NA Site
+Case Western Reserve University	CWRU ID	Ian Dvorin	East Central NA Site
+Purdue University	Riooooo	Riadh Alhumaidan	East Central NA Site
+Purdue University	Leorz	Pratyanch Jain	East Central NA Site
+University of Toronto	Kian	Kian Benner	East Central NA Site
+University of Michigan	Ghwangbo	Geon Hwangbo	East Central NA Site
+University of Toronto	Andy Y	Andy Yu	East Central NA Site
+University of Toronto	David W	Ziyu Wang	East Central NA Site
+Purdue University	thomas real	Jack Fang	East Central NA Site
+Purdue University	6purdue7	Pablo Yague Garces	East Central NA Site
+Case Western Reserve University	CWRU PD	Phat Dang	East Central NA Site
+Case Western Reserve University	CWRU AKP	Anh Khoi Phuong	East Central NA Site
+University of Toronto	Alan W	Yutong Wang	East Central NA Site
+Case Western Reserve University	CWRU AS	Andrew Slattery	East Central NA Site
+Purdue University	Partth Kulkarni	Partth Kulkarni	East Central NA Site
+Purdue University	Atharva	Atharva Kerkar	East Central NA Site
+University of Michigan	Uberakon	Adarsh Bharathwaj	East Central NA Site
+Purdue University	carvalj	Hidden User	East Central NA Site
+Michigan State University	Phuc Nguyen	Phuc Nguyen	East Central NA Site
+Purdue University	Walis Team	Ujjawal Prasad	East Central NA Site
+Ohio State University	Sadhika Kamchetty	Sadhika Kamchetty	East Central NA Site
+University of Windsor	uwin_lancers2	Anant Kumar Singh	East Central NA Site
+Purdue University	moneyless	Khoa Nguyen	East Central NA Site
+Ohio State University	Hanshil SO	Hanshil SO	East Central NA Site
+Ohio State University	Ishika Aahna	Ishika Aahna	East Central NA Site
+York University	while true bruteForce	Huiling Tang, Benjamin Michailov, Ryan Pelchat	East Central NA Site
+University of Toronto	Jeff H	Jeff Hu	East Central NA Site
+McMaster University	Siddh	Siddh Sinha	East Central NA Site
+Ohio State University	Andon Lafreniere	Andon Lafreniere	East Central NA Site
+Purdue University	vaporization	Hidden User	East Central NA Site
+Cleveland State University	CSU Euclid	Nhat Le, Darshan Thakkar	East Central NA Site
+Purdue University	Team Seno	Seno Sanjeev John	East Central NA Site
+University of Toronto	Andrew M	Andrew Matthian	East Central NA Site
+University of Toronto	Ora O	Orazkhan Khaidar	East Central NA Site
+University of Toronto	Muhammad Z	Muhammad Zendy Zainuddin	East Central NA Site
+University of Michigan	Victor	Jiale Chu	East Central NA Site
+Purdue University	lds	Dat Le	East Central NA Site
+University of Michigan	kevin_zhong	Kevin Zhong	East Central NA Site
+McMaster University	jmeiza	John Moses	East Central NA Site
+University of Windsor	uwin_lancers1	Hidden User	East Central NA Site
+University of Toronto	Dorothy Z	Dorothy Zheng	East Central NA Site
+Purdue University	Bessie	Pradyun Tandra	East Central NA Site
+University of Toronto	Simon S	Simon Shen	East Central NA Site
+Ohio State University	Blake Besecker	Blake Besecker	East Central NA Site
+McMaster University	bruce	Jack Yuan	East Central NA Site
+Purdue University	Arseni Anoshka	Arseni Anoshka	East Central NA Site
+Ohio State University	Vedanth Malhotra	Vedanth Malhotra	East Central NA Site
+Purdue University	Mr. Perfectly Fine	Wilbert	East Central NA Site
+University of Toronto	Neo	Ngoc Hoang Phong Nguyen	East Central NA Site
+Purdue University	bit	Kush Nayak	East Central NA Site
+University of Toronto	UTSC A	Evan Simanovskis	East Central NA Site
+Purdue University	Mmm	Max Xu	East Central NA Site
+University of Toronto	Kevin Y	Kevin Yang	East Central NA Site
+University of Toronto	Rashid M	Rashid Mahmood	East Central NA Site
+McGill University	mcgill127	Pierre Demerjian	Northeast North America Site
+University of Rochester	Rochester #9	Isabel Humphreys	Northeast North America Site
+McGill University	mcgill52	Steve Chen	Northeast North America Site
+Rochester Institute of Technology	RIT 23	Zac Valdes	Northeast North America Site
+Concordia University	Jaspreet Singh - Concordia	Jaspreet Singh	Northeast North America Site
+McGill University	mcgill98	Laurence Liang	Northeast North America Site
+McGill University	mcgill9	Shivam Patel	Northeast North America Site
+McGill University	mcgill132	Alexander Vatch	Northeast North America Site
+McGill University	mcgill72	Scotia Millar	Northeast North America Site
+McGill University	mcgill4	Aaron Lu	Northeast North America Site
+University of Rochester	Rochester #17	Jason Lee	Northeast North America Site
+McGill University	mcgill13	Hussin Suleiman	Northeast North America Site
+McGill University	mcgill64	Anh Tu Chau, Vincent Dinh-Vien Duong, Jessica Xie	Northeast North America Site
+Rochester Institute of Technology	RIT 30	Caleb Riley	Northeast North America Site
+McGill University	mcgill31	Angela Tang, Austin Wang, Areebah Farid	Northeast North America Site
+McGill University	mcgill16	Damian Lefebvre, Mathieu Pelland	Northeast North America Site
+Harvard University	Bob321	Ishaan Sinha	Northeast North America Site
+University of Montreal	UdeM 3	Jacob Denault, Mathis Laroche, Maxime Mitchelson	Northeast North America Site
+McGill University	mcgill87	Toufic Youssef, Arham Ahmed, Zaid Abdel Rahman	Northeast North America Site
+Rochester Institute of Technology	RIT 27	Vrutant Chaudhari, Vijita Udayabhanu	Northeast North America Site
+McGill University	mcgill95	Paulette Peram	Northeast North America Site
+Rochester Institute of Technology	RIT 4	Cayden Tisdale	Northeast North America Site
+McGill University	mcgill93	adntaha, Kuan Yi Wang, Eric Tanase	Northeast North America Site
+Harvard University	Maxwell's Team	Maxwell Zen	Northeast North America Site
+McGill University	mcgill29	Alexandre Xu, onlinemax12, Denise Toader	Northeast North America Site
+Rochester Institute of Technology	RIT 36	Sadit Hussain, Shadman Nasir, Shefat Faisal	Northeast North America Site
+McGill University	mcgill81	Yurun Mao, David Xu	Northeast North America Site
+McGill University	mcgill128	Ben Symons	Northeast North America Site
+Brown University	Brown NAQ Team 1	Jerry Xia, Gavin Zhao, Chien-Yu Xiong	Northeast North America Site
+Northeastern University	HyperHogLog(6)	Mikhail Kovalev	Northeast North America Site
+McGill University	mcgill20	Rami Demloj, Arold Bonkougou, Ayoub Melliani	Northeast North America Site
+Massachusetts Institute of Technology	letmeregister1	Rohin Garg, Agastya Goel, Gimran Abdullin	Northeast North America Site
+Rochester Institute of Technology	RIT 9	Vincent Wang	Northeast North America Site
+University of Montreal	UdeM 6	Abel-Jimmy Oyono-Montoki, Antony Leclerc	Northeast North America Site
+University of Rochester	Rochester #15	Zachary Tan	Northeast North America Site
+University of Rochester	Rochester #6	Alex Hermann	Northeast North America Site
+University of Michigan	Jeffrey Huang	Jeffrey Huang	East Central NA Site
+Ohio State University	Sean Lipton	Sean Lipton	East Central NA Site
+University of Michigan	Lloyd	Lloyd Zhu	East Central NA Site
+McMaster University	Nootwin	Nora Murray	East Central NA Site
+University of Toronto	UTSC B	Long Nguyễn Hải	East Central NA Site
+Ohio State University	Nishanth Chandrashekar	Nishanth Chandrashekar	East Central NA Site
+University of Toronto	Anthony F	Anthony Fetelya	East Central NA Site
+Pennsylvania State University	PSU 1	Nikita Kiselov, Sean Lambert, Siddharth Pendyala	East Central NA Site
+Purdue University	Tatha Pandey	Tatha Pandey	East Central NA Site
+Pennsylvania State University	PSU 2	Yaser Balamash	East Central NA Site
+University of Toronto	Alan H	Alan He	East Central NA Site
+University of Toronto	Jaylen S	Jaylen Sze	East Central NA Site
+University of Michigan	Funny Monkey Gaming	Nathanael Lu	East Central NA Site
+Purdue University	Super Robot Pirate Ninja	Angela Qian	East Central NA Site
+Brock University	Onyx Badgers	Jay Shah	East Central NA Site
+University of Toronto	Jason W	Jason Wang	East Central NA Site
+Purdue University	Emperor	Ephram Chun	East Central NA Site
+Brock University	Jade Badgers	Roshan Kannan	East Central NA Site
+Purdue University	preetham-yerragudi	Preetham Yerragudi	East Central NA Site
+Purdue University	Shreyansh	Shreyansh Tehanguria	East Central NA Site
+McMaster University	again	Michael Shi	East Central NA Site
+Purdue University	阮毅文	Arvind Ramaswami	East Central NA Site
+University of Michigan	lilsharu	Shourya Bansal	East Central NA Site
+University of Michigan	Team Name	Samanway Sadhu	East Central NA Site
+University of Michigan	NaCl	Michael Shio	East Central NA Site
+University of Toronto	Shuwei Z	Shuwei Zhou	East Central NA Site
+University of Toronto	Jasmine R	Jing Ren	East Central NA Site
+Purdue University	iHsi	Alan Hsi	East Central NA Site
+Purdue University	hyprox	Matthew Li	East Central NA Site
+McMaster University	Phoenix	Siddharth Muttala	East Central NA Site
+Ohio State University	Parker Talbot	Parker Talbot	East Central NA Site
+University of Toronto	Lufeng C	Lufeng Cheng	East Central NA Site
+Brock University	Crimson Badgers	Braxton Holmes	East Central NA Site
+Brock University	Violet Badger	Ritika Chaudhary	East Central NA Site
+Purdue University	:3	Sanjay Vijay	East Central NA Site
+Purdue University	The Rice	Tony Xu	East Central NA Site
+Purdue University	idk lol	Caitlin Wilson	East Central NA Site
+University of Michigan	3g1g	Anish Manda	East Central NA Site
+Michigan State University	Byambasukh	Delger Byambasukhz	East Central NA Site
+Ohio State University	Kevin Zhang	Kevin Zhang	East Central NA Site
+University of Michigan	Jacob Xu	Jacob Xu	East Central NA Site
+Purdue University	team!	Hyunji (Sophia) Cho	East Central NA Site
+Purdue University	orz	Leo Lee	East Central NA Site
+University of Toronto	Matthew R	Matthew Ramsoondar	East Central NA Site
+University of Toronto	Bill L	Bill Lin	East Central NA Site
+University of Toronto	Tian X	Tian Xie	East Central NA Site
+Cleveland State University	CSU Chester	Kassem Srhiri, David Awkar	East Central NA Site
+University of Toronto	Aaron C	Shijun Chen	East Central NA Site
+Ohio State University	Andrew Lovelass	Andrew Lovelass	East Central NA Site
+University of Michigan	JHL	Jian Hong Li	East Central NA Site
+McMaster University	KrishICPC	Krishna Chauhan	East Central NA Site
+University of Michigan	Yeyuan Chen	Benyu Wang	East Central NA Site
+University of Windsor	uwin_lancers3	Travis Ratnaharan	East Central NA Site
+Case Western Reserve University	CWRU QPN	Quang Nguyen	East Central NA Site
+Ohio State University	Caden Conde	Caden Conde	East Central NA Site
+Case Western Reserve University	CWRU JM	Justin Meng	East Central NA Site
+Ohio State University	Oluwaponmile Fasoro	Oluwaponmile Fasoro	East Central NA Site
+University of Waterloo	meat	Leonardo Zhou	East Central NA Site
+Indiana University of Pennsylvania	IUP Ryan	Ryan Kuhns	East Central NA Site
+Purdue University	beef and potato	Ray Han	East Central NA Site
+University of Waterloo	Waterloo White	Arthur Bright, Paul Chen, Linh Nguyen	East Central NA Site
+Ohio State University	Patrick Carraway	Patrick Carraway	East Central NA Site
+University of Michigan	Kallen	Aneekah Zohra Younus	East Central NA Site
+University of Michigan	Byte Club	Matthew Zhang	East Central NA Site
+Purdue University	Swastik Agarwala	Swastik Agarwala	East Central NA Site
+McMaster University	tyuan	Tony Yuan	East Central NA Site
+Purdue University	Piggies	Peter Yu	East Central NA Site
+Ohio State University	Charlie Wang	Charlie Wang	East Central NA Site
+McMaster University	not_my_name	Connor Usaty	East Central NA Site
+Brock University	Amber Badgers	Khush Patel, Geoffrey Jensen	East Central NA Site
+Brock University	Indigo Badger	Nikola Jankovic	East Central NA Site
+McMaster University	DJ's Team	Daniel Jarabek	East Central NA Site
+University of Toronto	Mina M	Mina Mikhail	East Central NA Site
+University of Waterloo	Waterloo Red	mehrdad sohrabi, Tarek Zaki, Gunadi Gani	East Central NA Site
+University of Michigan	rhagfyr	Christopher Davis	East Central NA Site
+Michigan State University	Minh Nguyen	Minh Nguyen Quang	East Central NA Site
+Purdue University	team_new	Rohan Menon	East Central NA Site
+University of Toronto	Chuyi W	Chuyi Wang	East Central NA Site
+Ohio State University	Jake maheras	Jake maheras	East Central NA Site
+Grove City College	GCC-01	Anthony Constantinescu, KJ Gray, Luca Cosentino	East Central NA Site
+Purdue University	MunirKP	Munir Kudrati-Plummer	East Central NA Site
+University of Michigan	BilyHurington	Shangdao Li	East Central NA Site
+Purdue University	dbekinal	Daniyal Ahmad Bekinalkar	East Central NA Site
+University of Michigan	pippa >:)	Ivan Wei	East Central NA Site
+University of Toronto	Aryan G	Aryan Garg	East Central NA Site
+McMaster University	testingtesting	aegir wang	East Central NA Site
+York University	Team Rocket	Hamnah Durrani, Willa Nie, Hasita Mandaleeka	East Central NA Site
+University of Michigan	bhan	Bing Han	East Central NA Site
+Michigan State University	Hung Luong	Duc Hung Luong	East Central NA Site
+Purdue University	fishy15	Aaryan Prakash	East Central NA Site
+Ohio State University	Roshan Ramamurthy	Roshan Ramamurthy	East Central NA Site
+University of Waterloo	Waterloo Gold	Arayi Khalatyan, Henry Yi, Max Jiang	East Central NA Site
+McMaster University	cjLu	Chunjie Lu	East Central NA Site
+Purdue University	one more?	Robert Lee	East Central NA Site
+University of Toronto	Cayden W	Cayden Wong	East Central NA Site
+University of Michigan	maxsum	Maxim Kim	East Central NA Site
+University of Toronto	Yunzhe Q	Yunzhe Qiao	East Central NA Site
+Ohio State University	Ariella Scoburgh	Ariella Scoburgh	East Central NA Site
+Ohio State University	Xian McGinnis	Xian McGinnis	East Central NA Site
+University of Waterloo	Waterloo Black	Kai Wen Yang, Kevin Guo, Kelly Dance	East Central NA Site
+Ohio State University	Bhavesh Mittal	Bhavesh Mittal	East Central NA Site
+Case Western Reserve University	CWRU NBC	Nicolas Bliss-Carrascosa	East Central NA Site
+University of Michigan	Sincheol	Sincheol Yang	East Central NA Site
+University of Michigan	zzz	Jonathan Chen	East Central NA Site
+University of Michigan	brownie	Huda Khan	East Central NA Site
+University of Notre Dame	Notre Dame Team One	Max Ficco, Will Orban, Samuel Godswill	East Central NA Site
+University of Toronto	Robert C	Robert Chung	East Central NA Site
+Purdue University	sayamgoyal	Sayam Goyal	East Central NA Site
+University of Toronto	Kayna	Kayna Mufidah	East Central NA Site
+University of Michigan	AC	Ayan Chowdhury	East Central NA Site
+McMaster University	BT	Brian Tran	East Central NA Site
+Purdue University	canine	Thomas Marlowe	East Central NA Site
+Ohio State University	Ayden Coughlin	Ayden Coughlin	East Central NA Site
+Purdue University	OPnewbie	Ningyuan Yang	East Central NA Site
+University of Michigan	BLaCK rOSE disEASe pATiENT	Zhengjie Min	East Central NA Site
+University of Toronto	Godric U	Chong Un Un	East Central NA Site
+Ohio State University	Darryl Darui Liu	Darryl Darui Liu	East Central NA Site
+Purdue University	Rohan's Team	Rohan Baste-Bania	East Central NA Site
+Purdue University	Purdue University	Hidden User	East Central NA Site
+University of Toronto	Andrew Tam	Andrew Tam	East Central NA Site
+Ohio State University	Aadithya Raj Vinoth Raj	Aadithya Raj Vinoth Raj	East Central NA Site
+University of Michigan	Purple	Hidden User	East Central NA Site
+Brock University	Silver Badgers	Rasa Khosrowshahli	East Central NA Site
+McMaster University	mi.shi.	Michael Shi	East Central NA Site
+University of Waterloo	No name	Kadylbek Serik	East Central NA Site
+Purdue University	Team Ethan	Ethan Porath	East Central NA Site
+Purdue University	01d Code & Black	Roel Yoon	East Central NA Site
+University of Toronto	Andrew S	Andrew Sasmito	East Central NA Site
+University of Toronto	Elwin C	Elwin Cheng	East Central NA Site
+Purdue University	saleh	Saleh Alaayed	East Central NA Site
+University of Toronto	Hanif P	Hanif Pietoyo	East Central NA Site
+McMaster University	Con	Vardaan Randev	East Central NA Site
+University of Toronto	Justin	Justin Matthew Wong	East Central NA Site
+University of Michigan	acshotak	Anish Malraj	East Central NA Site
+University of Toronto	Kevin W	Kevin Wei	East Central NA Site
+University of Toronto	Jianuo L	Jianuo Liu	East Central NA Site
+University of Toronto	Ansh A	Ansh Agrawal	East Central NA Site
+Ohio State University	Trevor Pribis	Trevor Pribis	East Central NA Site
+University of Toronto	Gojo	Javkhlan Byambadorj	East Central NA Site
+College of Charleston	Cofc_B	Luke Tramontozzi, Edward Portelles, Tyler McGuire	Southeast USA Site
+University of Central Florida	UCF-JV Westin_M	Westin Mathies	Southeast USA Site
+Stetson University	Go Hatters 2	Daniel Wong, Nour Amri, Ian Wu	Southeast USA Site
+Winthrop University	Garnett	Joshua Shrewsbury, Kevin Yanni, Harrison Neville	Southeast USA Site
+University of Florida	UF1	Samuel Kim, Richard Sun, Samuel Mo	Southeast USA Site
+University of North Florida	Ctrl Alt Defeat	RJ Clines, Daniel Reinecke, Benjamin Interlichia	Southeast USA Site
+Morehouse College	ChatGPT	William Swann	Southeast USA Site
+Morehouse College	Morehouse Maroon	Kanayo Egwuekwe-Maxey	Southeast USA Site
+Morehouse College	Morehouse Tiger A	Aren Egwuekwe	Southeast USA Site
+University of Central Florida	UCF Plate	Ian Carlos Martinez Molina	Southeast USA Site
+University of Central Florida	UCF Ate	Levent Istifli, Leonard Gofman, Samarth Upadhya	Southeast USA Site
+Morehouse College	Heapify	Olutade Jegede	Southeast USA Site
+University of Florida	UF5	Ishan Kumthekar, Rohit Dasgupta, Atina Ruvinova	Southeast USA Site
+Stetson University	Go Hatters 1	Arnold Shakirov, Cornelius Mulyokela	Southeast USA Site
+University of Central Florida	UCF-JV Coordinate	Ananya Agarwal, Wyatt Geno, George Zhao	Southeast USA Site
+University of Georgia	UGA 6	Wayne Lam	Southeast USA Site
+University of Georgia	UGA 7	James Nguyen	Southeast USA Site
+Morehouse College	G-Soft	Ahmed Kiel-Kamil	Southeast USA Site
+University of Georgia	UGA 9	Hiep Pham	Southeast USA Site
+University of Central Florida	UCF Triangulate	Thomas Meeks, Hidden User, Benjamin Prins	Southeast USA Site
+University of Florida	UF2	Sai Chandu Naru, Kai Blahnik, Maximilian Meiler	Southeast USA Site
+University of Central Florida	UCF-JV Obfuscate	Dhruv Goel, Wesley Geno, Michael W	Southeast USA Site
+University of Central Florida	UCF Pomegranate	Jackson Simoneau, nyxbird, Hidden User	Southeast USA Site
+University of Central Florida	UCF-JV Andrew_T	Andrew Tracz	Southeast USA Site
+Morehouse College	Coding++	Jonathan Ross	Southeast USA Site
+University of Georgia	UGA 11	Paarth Rathore	Southeast USA Site
+University of Central Florida	UCF-JV Enumerate	Frederick Reynolds, Ian Kristona, Aidan Gannon	Southeast USA Site
+University of Florida	UF4	Alex Milanes, Xabier Sienra, Steve Sajeev	Southeast USA Site
+University of Florida	UF7	Jeevan Iyadurai, Elijah Baucom, Luke Gorman	Southeast USA Site
+Florida Institute of Technology	FIT3	Nick	Southeast USA Site
+University of Georgia	UGA 1	Kaushal Bevara	Southeast USA Site
+Florida International University	Aquarius	Alessandra Uribe, Meagan Alfaro, Gabriela Saldana	Southeast USA Site
+Emory University	Isaac	Isaac Light	Southeast USA Site
+University of Georgia	UGA 5	Grayson Krause	Southeast USA Site
+Emory University	Gina	YiChi Wang	Southeast USA Site
+Georgia Institute of Technology	GT Lumberloon	Sahasrad Chippa, Huy Do, John McAlinden	Southeast USA Site
+McGill University	mcgill129	Dominic Phung	Northeast North America Site
+McGill University	mcgill66	Kevin Li, David Zhao	Northeast North America Site
+Boston University	Iterriers	Abdullah Alwazan	Northeast North America Site
+Concordia University	ec	Eric Chen	Northeast North America Site
+University of New Brunswick	UNBSJ - Team 3	Toluwamoshe Ladipo-Daniel, Aniekanabasi Ekarika, Praise Chopde	Northeast North America Site
+Boston University	Eterriers	Hoang Anh Vu	Northeast North America Site
+McGill University	mcgill17	Anthony Al-Helou, Adel Khalife	Northeast North America Site
+McGill University	mcgill111	Ashton Shchukin	Northeast North America Site
+McGill University	mcgill114	Gatlat Deng Bum	Northeast North America Site
+Mount Holyoke College	Pink Griffins	Marla Enkhtur, Moriana Ma, Amina Kudaibergen	Northeast North America Site
+McGill University	mcgill74	Haoran Qin	Northeast North America Site
+Boston University	Dterriers	Haoran Su	Northeast North America Site
+McGill University	mcgill35	tony yang	Northeast North America Site
+McGill University	mcgill8	Devito Stevanus	Northeast North America Site
+McGill University	mcgill55	Meriem-Syrine Bouchemla, Marwa Bouladjine, Ghalia Guerni	Northeast North America Site
+Rochester Institute of Technology	RIT 2	Pankhuri Shukla	Northeast North America Site
+McGill University	mcgill26	Ye Yuan, Mingqi Zhang	Northeast North America Site
+McGill University	mcgill42	Tianyi Qin, Kieran Tan, Raphael Dumont	Northeast North America Site
+McGill University	mcgill59	Ève Claveau, Hyungki Kim, Chloe Lai	Northeast North America Site
+Boston University	Fterriers	William Liu	Northeast North America Site
+Mount Allison University	A Mountie in exile	Issa Issack	Northeast North America Site
+McGill University	mcgill112	Shir Steiner	Northeast North America Site
+McGill University	mcgill15	Ivan Gaspart	Northeast North America Site
+Rochester Institute of Technology	RIT 34	Sahasra Kanampalli	Northeast North America Site
+Concordia University, Nebraska	Ashton Hays	Ashton Hays	North Central NA Site
+Northwestern College (Iowa)	NWC	Landon Van Berkum	North Central NA Site
+Dakota State University	Green Goblins	Tenzing Gurung, Sandesh Dhakal, Kavya Adhikari	North Central NA Site
+University of Minnesota	UofM_2025_10	William Walker	North Central NA Site
+University of Minnesota	UofM_2025_5	Rohan Cherukuri	North Central NA Site
+University of Wisconsin–Madison	goldMedal	Yu-Wei Lin, Arshjeet Singh Bajwa, Jianhong Shi	North Central NA Site
+University of Winnipeg	UW2	Adebanjo Oluwatobi	North Central NA Site
+University of Wisconsin–Madison	Divide and Surrender	Brandon Han, Xuping Zhuang, Albert W	North Central NA Site
+Concordia University, Nebraska	Aaron Cumming	Aaron Cumming	North Central NA Site
+University of Minnesota	UofM_2025_9	Shengqi Hu	North Central NA Site
+Iowa State University	Carter Snook	Carter Snook	North Central NA Site
+Iowa State University	Nhat Anh Bui	Nhat Anh Bui	North Central NA Site
+Dakota State University	Diet Code	Hidden User, John McMahon, Miles Roberts	North Central NA Site
+Valley City State University	Syntax Slayer	Noah Paulson, Jacoby Hunt, Conner Bowling	North Central NA Site
+University of Wisconsin–Madison	Ichikawa Zenith	Yanpeng Wei, Xusheng Zhi, Yufan Xiang	North Central NA Site
+Iowa State University	Eric Tow	Eric Tow	North Central NA Site
+Iowa State University	Yi Hong Lim	Yi-Hong Lim	North Central NA Site
+Drake University	Ctrl+Alt+Defeat	Nicholas Haisler, Evan Scherrer, Ujan RoyBandyopadhyay	North Central NA Site
+University of Wisconsin–Madison	Brute Force	Xuan Nghia Nguyen, Ti Wu, Minh Bui	North Central NA Site
+Iowa State University	Oskar Niesen	Oskar Niesen	North Central NA Site
+Iowa State University	Logan Wagner	Logan Wagner	North Central NA Site
+Dakota State University	ButterfliesAreAHoax	Jasmine, Mason Anderson, Lucas Zupp	North Central NA Site
+Dakota State University	Generic DSU Team	Eddie French, Joe Hammond, Hidden User	North Central NA Site
+University of Winnipeg	UW1	Olaoluwa Samuel Oke, Esther Akinpelu, Abdulhafiz Oladimeji Dada	North Central NA Site
+Iowa State University	Olivier Mubengwa	Olivier Mubengwa	North Central NA Site
+University of Wisconsin–Madison	52 Attempts, 2 Answered	Patrick Decabooter, Austin Tsai, Kushal Rao	North Central NA Site
+University of Wisconsin–Madison	Mini Soda	Xinchen Shen, Guanlin Chen, Enze Zhang	North Central NA Site
+University of Minnesota	Li	Anhao Li	North Central NA Site
+Dordt College	\n	James Kooiman, Wyatt Veenker, MyKayla Zylstra	North Central NA Site
+University of Minnesota	UofM_2025_4	Eric Kugel	North Central NA Site
+University of Minnesota	UofM_2025_11	Andy Phu	North Central NA Site
+University of Minnesota	YLin	Yukun Lin	North Central NA Site
+College of Charleston	Cofc_A	Joanna Godawa, Lauren Bentley, Lily Brown	Southeast USA Site
+Stetson University	Go Hatters 3	Hanjoline Julceus, Thomas Lamoureux, Dayspring Idahosa	Southeast USA Site
+University of Georgia	UGA 4	Edwin Kim	Southeast USA Site
+Emory University	Leonardo DeFarias	Leonardo de Farias	Southeast USA Site
+Florida International University	Sagittarius	Ousman Bah, Henrique Pitta Laranjinha, Gian Peña	Southeast USA Site
+Morehouse College	PTY	Troy Boxton Jr	Southeast USA Site
+Winthrop University	Gold	Kate Clary, Marc Martin-Lauzer, Timothy Dawson	Southeast USA Site
+Emory University	Haru	Harutoshi Okumura	Southeast USA Site
+University of Central Florida	UCF-JV Amit_P	Amit Prasad	Southeast USA Site
+University of Florida	UF6	Matthew, Wernher To, Jason Li	Southeast USA Site
+University of Central Florida	UCF Corporate	Vlad Kurgankin, Samuel Oliveira, Tomas Baron	Southeast USA Site
+University of Georgia	UGA 2	Brennan Davenport	Southeast USA Site
+Miami Dade College	Something Funny	David Freer, Victor Fernandez Pavoni	Southeast USA Site
+Morehouse College	3Times	Mark Ross	Southeast USA Site
+Emory University	Peace Cyebukayire	Peace Cyebukayire	Southeast USA Site
+Emory University	Hector	Hector Liao	Southeast USA Site
+Florida Institute of Technology	FIT4	Edward Laureano	Southeast USA Site
+Florida International University	Gemini	Carlos Guzman, Luis Canada	Southeast USA Site
+Florida Institute of Technology	FIT1	Pedro Marcet, Ivan Marriott	Southeast USA Site
+University of Central Florida	UCF Dehydrate	Oliver Reinke, Caden Brock, Tiffany Marcus	Southeast USA Site
+University of Georgia	UGA 8	Benjamin Parker	Southeast USA Site
+Florida Institute of Technology	FIT5	Shamik Bera	Southeast USA Site
+University of Georgia	UGA 10	Quentin Proels	Southeast USA Site
+University of Central Florida	UCF-JV Caleb_M	Caleb Mang	Southeast USA Site
+Emory University	Ethan Park	Ethan Park	Southeast USA Site
+University of Georgia	UGA 12	John Song	Southeast USA Site
+Florida International University	Byte Brigade	Lingtong Meng, Sofia Ramirez, D0peP3nguin	Southeast USA Site
+University of North Florida	The Good, the Bad and the Ugly	Owen Dunn, Gary Alexander Perez, Goodkhau	Southeast USA Site
+Morehouse College	the tigers	jc thomas III	Southeast USA Site
+University of North Florida	ABC	Quan Vo	Southeast USA Site
+University of Central Florida	UCF-JV Illuminate	Sidharth Yerramilli, Hidden User, Pranav Cheruku	Southeast USA Site
+University of North Florida	jve01	John Van	Southeast USA Site
+University of Central Florida	UCF-JV Alexander_P	Alexander Paolini	Southeast USA Site
+University of Central Florida	UCF-JV Saicharan_R	Saicharan Ramineni	Southeast USA Site
+University of North Georgia	CodingWarriors	Jesus Chavero, Israel Jauregui, Devin Beck	Southeast USA Site
+University of Georgia	UGA 3	Nikita Jha	Southeast USA Site
+Emory University	Elizabeth	Elizabeth Garcia	Southeast USA Site
+Morehouse College	Tiger++	Aniaba N'guessan	Southeast USA Site
+University of Georgia	UGA 0	Rishith Auluka	Southeast USA Site
+Florida International University	Aries	Marcelo Hernandez, Kristian Correa, Gabriel Garcia	Southeast USA Site
+Florida Southern College	FSC1	Christopher Villegas	Southeast USA Site
+University of Florida	UF3	Ricky Zhang, Cole Smith, Anthony Yao	Southeast USA Site
+Emory University	Alan	Alan Wei	Southeast USA Site
+Florida Institute of Technology	FIT2	Daniel Acosta, Luka Miodrag Starcevic	Southeast USA Site
+Emory University	Aiden	Aiden Amaya	Southeast USA Site
+University of California, Irvine	UCI lypho	Cindy Zhang	Southern California Site
+University of California, San Diego	UCSD 1	Hidden User, Benjamin Johnson	Southern California Site
+University of California, Irvine	UCI hn	Hodaka Nakamura	Southern California Site
+University of Southern California	tycho	Tycho Elling	Southern California Site
+University of California, Irvine	UCI TD5	Trevor D	Southern California Site
+University of California, Irvine	UCIyivan	Yifan Sheng	Southern California Site
+University of California, Irvine	UCI EXS	Effie Shen	Southern California Site
+University of California, Irvine	UCI Carrots	Alexa Victoria Duffy	Southern California Site
+University of California, Irvine	UCI hellobro	Chanmonyneath Has	Southern California Site
+California Baptist University	CBU-Windows	Joshua Baeza, Benjamin Kroeker, Calvin Chiv	Southern California Site
+University of California, Irvine	UCI dhyang	Dongho Yang, Oleg Presnyakov, Steven He	Southern California Site
+University of California, Irvine	UCI aaaaaaaaaaaaa	Rei Shindo	Southern California Site
+University of California, Irvine	UCI polobear	Jericho de Guzman	Southern California Site
+University of California, Irvine	UCI IO	Isa Ozer	Southern California Site
+De Anza College	KarenC	carinebae	Southern California Site
+University of California, Irvine	codicon	Elijah Huang	Southern California Site
+University of California, Irvine	UCILFABGS	Brandon Hoang	Southern California Site
+University of California, Irvine	UCI{for fun}	Raymond Chen	Southern California Site
+Harvey Mudd College	HMC TBD	Oliver Howe, Angelina Tsai, Uddant Patodia	Southern California Site
+University of California, Irvine	UCI B	Bryan Liu	Southern California Site
+University of California, Irvine	OG	Gagan Sai Trinadh DP	Southern California Site
+University of California, Irvine	UCI blessix7	William Yang	Southern California Site
+University of Pennsylvania	Spencer L	Spencer Lee	Mid-Atlantic USA Site
+Duke University	Holly	Alperen Tupurtu	Mid-Atlantic USA Site
+West Chester University	BitMe	Michael Kauppila, Demetrius Semanko, Daniel Gannon	Mid-Atlantic USA Site
+Fayetteville State University	Broncos	Waylon Robinson, Stefan Gittens	Mid-Atlantic USA Site
+Villanova University	Matt G	Matthew DiGiovanni	Mid-Atlantic USA Site
+Virginia Tech	Yousef H	Yousef Hassan	Mid-Atlantic USA Site
+Messiah College	Falcons	Ben Anspach, Nick Epps, Aiden Morris	Mid-Atlantic USA Site
+Villanova University	George	George Small	Mid-Atlantic USA Site
+Virginia Tech	Theo's Team	Wallace, Theo	Mid-Atlantic USA Site
+Virginia Tech	Lucas W.	Lucas Weaver	Mid-Atlantic USA Site
+Drexel University	Ada Dragon	Sing Zheng, Tasnim Rahman	Mid-Atlantic USA Site
+East Carolina University	Golden Purple	Nathaniel Jordan Ramirez, Bryce Hart, William Mathews	Mid-Atlantic USA Site
+Johns Hopkins University	Daniel	Daniel Yao	Mid-Atlantic USA Site
+Villanova University	Rafi	Abdullah Al Rafi Mahmud	Mid-Atlantic USA Site
+The George Washington University	JKK_Revs	Jugal Gajjar, Kamalasankari Subramaniakuppusamy, Kaustik Ranaware	Mid-Atlantic USA Site
+Virginia Commonwealth University	Midnight Commanders	Derek Chiou	Mid-Atlantic USA Site
+Duke University	Chunk	Vivek Chandy	Mid-Atlantic USA Site
+University of Pennsylvania	Charles	Charles Jin	Mid-Atlantic USA Site
+Virginia Tech	Raymond	Raymond Hu	Mid-Atlantic USA Site
+University of Pennsylvania	ELMO - AZ	Moaz Elgeziry	Mid-Atlantic USA Site
+Virginia Tech	Moon	Kyoungnam Moon	Mid-Atlantic USA Site
+Duke University	Floatato	Thomas Kidane	Mid-Atlantic USA Site
+Virginia Tech	ERI	Enzo Ruggeri Isotton	Mid-Atlantic USA Site
+North Carolina State University	bogosort	Nick Cunard	Mid-Atlantic USA Site
+Drexel University	BacKy	Duy Nguyen, Neil Luong, Duc Duong To	Mid-Atlantic USA Site
+Johns Hopkins University	Segment Tree Enjoyer	Mikhail Zhernevskii	Mid-Atlantic USA Site
+Virginia Tech	Morris	Wei Jhe Lin	Mid-Atlantic USA Site
+University of Pennsylvania	vadmipop	Vadim Popov	Mid-Atlantic USA Site
+Johns Hopkins University	Chelsea Wong	Chelsea Wong	Mid-Atlantic USA Site
+Virginia Tech	Capy	Adam Nguyen	Mid-Atlantic USA Site
+Virginia Tech	Noah	Noah Webber	Mid-Atlantic USA Site
+Villanova University	Rebecca	Rebecca Jackson	Mid-Atlantic USA Site
+Johns Hopkins University	dliu	Derrick Liu	Mid-Atlantic USA Site
+University of Pennsylvania	CP Penn	Kimberly Liang	Mid-Atlantic USA Site
+East Carolina University	Purple Crusaders	William Handfield, Landon Gooding, Myron Quijano	Mid-Atlantic USA Site
+University of North Carolina at Chapel Hill	Onyen Find	Gautam Pradhan, Alexander Zhongqi Yoshida, Akksharvan Senthilkumar	Mid-Atlantic USA Site
+Virginia Tech	thangcaocore	Thang Cao	Mid-Atlantic USA Site
+University of Pennsylvania	Kevin	Kevin Song	Mid-Atlantic USA Site
+Johns Hopkins University	Ege	Hidden User	Mid-Atlantic USA Site
+West Chester University	ByteMe	Huy Nguyen, Alexander Pham, Logan Yates	Mid-Atlantic USA Site
+Virginia Tech	Timothy Jimothy (TJ Nickerson)	Timothy James Nickerson	Mid-Atlantic USA Site
+University of North Carolina at Greensboro	UNCG-2	Evan Spiering, Siming Jia, Lucas Walton	Mid-Atlantic USA Site
+Drexel University	allwedoisnguyennguyenwill	Henry Nguyen, William Dorman, Nghia Nguyen	Mid-Atlantic USA Site
+Johns Hopkins University	Palta	Hidden User	Mid-Atlantic USA Site
+Duke University	Gully	Aruj Bansal	Mid-Atlantic USA Site
+University of Pennsylvania	Event Horizon	Dee Xie	Mid-Atlantic USA Site
+Drexel University	KFC	Andria Beridze, Lizi Brelidze, Bao Gia Vuong	Mid-Atlantic USA Site
+Christopher Newport University	Hawk 2	Clark Haines, Patrick Mero, Sebastian Fox	Mid-Atlantic USA Site
+Duke University	Beadnose	Hung Le	Mid-Atlantic USA Site
+University of Pennsylvania	ntarsis	Nicholas Tarsis	Mid-Atlantic USA Site
+Drexel University	Boole Dragon	Rick Li, Md Sami Alam	Mid-Atlantic USA Site
+University of Pennsylvania	Java	Teyo	Mid-Atlantic USA Site
+University of North Carolina at Chapel Hill	Tm8HasFever	Leon Abelardo Rodriguez-Jarquin, Pranav Agrawala, David Li	Mid-Atlantic USA Site
+Virginia Tech	Mikiya Stein	Mikiya Stein	Mid-Atlantic USA Site
+Johns Hopkins University	Steven	Steven Tan	Mid-Atlantic USA Site
+University of Pennsylvania	Andrew Wang Team	Andrew Wang	Mid-Atlantic USA Site
+North Carolina State University	swoosh	Rameez Malik	Mid-Atlantic USA Site
+Duke University	Walker	Ian Zhang	Mid-Atlantic USA Site
+Virginia Tech	Ben MacDougall	Benjamin MacDougall	Mid-Atlantic USA Site
+Villanova University	Hunter	Hunter Mullen	Mid-Atlantic USA Site
+Johns Hopkins University	jkung	Johnny Kung	Mid-Atlantic USA Site
+Arcadia University	AU Blue	Andrew Szperka, Devin Borys, Evelyn Parra De Jesus	Mid-Atlantic USA Site
+Villanova University	Roger	Hiep Nguyen	Mid-Atlantic USA Site
+University of Pennsylvania	sudo2hero	Isaac Lee	Mid-Atlantic USA Site
+Virginia Tech	Benjamin Wheatley's Team	Benjamin Wheatley	Mid-Atlantic USA Site
+University of North Carolina at Greensboro	UNCG-1	Emilia Trickett, Kenny Banks, Emre Tekmen	Mid-Atlantic USA Site
+University of North Carolina at Chapel Hill	57	Hoang Thien An Vu, Vincent Wang, Andrew Su	Mid-Atlantic USA Site
+University of Pennsylvania	neblin	Benjamin Lin	Mid-Atlantic USA Site
+University of North Carolina at Chapel Hill	RandomTeam	Peiheng Ni, June Brewer, Hidden User	Mid-Atlantic USA Site
+Duke University	Grazer	Akshar Yeccherla	Mid-Atlantic USA Site
+California State University, Monterey Bay	Justin Andreoli	Justin Andreoli	Pacific Northwest Site
+University of British Columbia	user006	User 006	Pacific Northwest Site
+California State University, Chico	wildcat10	Poojith Chowdary Manne	Pacific Northwest Site
+California State University, Chico	wildcat4	Lawjay Lee	Pacific Northwest Site
+California State University, Chico	wildcat3	Saloni Tilekar	Pacific Northwest Site
+San José State University	Bhavpreet Judge	Bhavpreet Judge	Pacific Northwest Site
+University of California, Berkeley	Benedikt Magnusson	Benedikt Magnusson	Pacific Northwest Site
+University of British Columbia	user039	User 039	Pacific Northwest Site
+San José State University	Vyshnavi D P	Vyshnavi D P	Pacific Northwest Site
+San José State University	Amarjargal Ayurzana	Amarjargal Ayurzana	Pacific Northwest Site
+University of British Columbia	user032	User 032	Pacific Northwest Site
+San José State University	andrew chen	andrew chen	Pacific Northwest Site
+University of British Columbia	user013	User 013	Pacific Northwest Site
+San José State University	noah ruderman	Noah Ruderman	Pacific Northwest Site
+California State University, Monterey Bay	Hugo Ruiz-Mireles	Hugo Ruiz-Mireles	Pacific Northwest Site
+California State University, Chico	wildcat1	Tirth Shah	Pacific Northwest Site
+California State University, Chico	wildcat15	Aaron Robinson Almazan	Pacific Northwest Site
+University of British Columbia	user005	User 005	Pacific Northwest Site
+University of California, Berkeley	Anirudh Sreerama	Anirudh Sreerama	Pacific Northwest Site
+University of British Columbia	user017	User 017	Pacific Northwest Site
+University of British Columbia	user002	User 002	Pacific Northwest Site
+University of British Columbia	user040	User 040	Pacific Northwest Site
+San José State University	kaitlyn chiu	kaitlyn chiu	Pacific Northwest Site
+University of California, Berkeley	Maxwell DeFanti	Maxwell DeFanti	Pacific Northwest Site
+California State University, Monterey Bay	Paulo Camacho	Paulo Camacho	Pacific Northwest Site
+University of British Columbia	user037	User 037	Pacific Northwest Site
+University of British Columbia	user003	User 003	Pacific Northwest Site
+California State University, Chico	wildcat14	Ryan Makela	Pacific Northwest Site
+University of California, Berkeley	Ethan Kou	Ethan Kou	Pacific Northwest Site
+San José State University	v kouru	Vaishnavi Kouru	Pacific Northwest Site
+California State University, Monterey Bay	Alexey Berezhnoy	Alexey Berezhnoy	Pacific Northwest Site
+University of British Columbia	user030	User 030	Pacific Northwest Site
+University of British Columbia	user023	User 023	Pacific Northwest Site
+California State University, Monterey Bay	Luke Winter	Luke Winter	Pacific Northwest Site
+University of British Columbia	user025	User 025	Pacific Northwest Site
+San José State University	Justin Greatorex	Justin Greatorex	Pacific Northwest Site
+San José State University	Yug Amol More	Yug Amol More	Pacific Northwest Site
+San José State University	alan ngo	Alan Ngo	Pacific Northwest Site
+California State University, Chico	wildcat12	Brandon Tran	Pacific Northwest Site
+University of British Columbia	user033	User 033	Pacific Northwest Site
+University of British Columbia	user008	User 008	Pacific Northwest Site
+University of British Columbia	user011	User 011	Pacific Northwest Site
+McMaster University	GLEX	Yanqing Shi	East Central NA Site
+Purdue University	Marisa	Huy Pham	East Central NA Site
+University of Toronto	Andrew K	Andrew Kwok	East Central NA Site
+Case Western Reserve University	CWRU NRB	Nathaniel Brown	East Central NA Site
+Brock University	Maroon Badger	Sean McAlister	East Central NA Site
+University of Michigan	lc1902	Ruizhi Chen	East Central NA Site
+University of Michigan	Hao Chen	Hao Ran Chen	East Central NA Site
+University of Toronto	Delun S	Delun Sun	East Central NA Site
+Purdue University	here for pizza	Jimmy Dinh	East Central NA Site
+University of Toronto	Mark P	Mark Peng	East Central NA Site
+Purdue University	Sam	Samuel Gurarie	East Central NA Site
+University of Michigan	RyougiShiki	Tianqin Jiao	East Central NA Site
+Purdue University	Tanishq P	Tanishq Pauskar	East Central NA Site
+University of Michigan	mxqwp	Jaiden Shin	East Central NA Site
+University of Toronto	Johann G	Johann Gaulke	East Central NA Site
+University of Toronto	Lucia G	Lucia Giovani	East Central NA Site
+University of Toronto	Kitas U	26. I Nyoman Narayan Kitas Utama	East Central NA Site
+Ohio State University	Sohit Patro	Sohit Patro	East Central NA Site
+Purdue University	(╯°□°)╯︵ ┻━┻	Ethan Dickey	East Central NA Site
+Indiana University of Pennsylvania	IUP 2	Dan Tobey, AUniqueName.Jpeg	East Central NA Site
+University of Toronto	Frank H	Frank Huang	East Central NA Site
+University of Toronto	Ming	Ming Chan	East Central NA Site
+University of Michigan	Xizhe Li	Xizhe Li	East Central NA Site
+San José State University	thucbao.tran@sjsu.edu	Thuc Bao Tran	Pacific Northwest Site
+University of British Columbia	user034	User 034	Pacific Northwest Site
+San José State University	Team Anika	anika manjesh	Pacific Northwest Site
+University of British Columbia	user012	User 012	Pacific Northwest Site
+California State University, Monterey Bay	Kyle Parker	Kyle Parker	Pacific Northwest Site
+California State University, Monterey Bay	Kristopher Church	Kristopher Church	Pacific Northwest Site
+University of California, Davis	Bogosorters	Aaron Danen, Bryan Jocom, Bowen Yang	Pacific Northwest Site
+California State University, Monterey Bay	Roberto Palacios	Roberto Palacios	Pacific Northwest Site
+California State University, Monterey Bay	Shawn Anbu	Shawn Anbu	Pacific Northwest Site
+San José State University	Jeremy Greatorex	jeremy greatorex	Pacific Northwest Site
+Hawaii Pacific University	#ADD8E6	Adriane Fiesta, Noel Ah Mook Sang, Lyric Leandro, John Kennedy Marcos	Pacific Northwest Site
+University of California, Berkeley	Jaden Li	Jaden Li	Pacific Northwest Site
+University of British Columbia	user016	User 016	Pacific Northwest Site
+San José State University	Rithika Sridhar	Rithika Sridhar	Pacific Northwest Site
+University of California, Davis	moomoodoodoo	Reina Itakura, Nathan Blanton, Theodore Pan	Pacific Northwest Site
+San José State University	Bhavika Kothapalli	Bhavika Kothapalli	Pacific Northwest Site
+California State University, Monterey Bay	Samin Yasar	dow phin	Pacific Northwest Site
+University of British Columbia	user022	User 022	Pacific Northwest Site
+California State University, Chico	wildcat13	Max Dieterle	Pacific Northwest Site
+University of British Columbia	user024	User 024	Pacific Northwest Site
+California State University, Chico	wildcat5	Akash Bhatia	Pacific Northwest Site
+University of British Columbia	user018	User 018	Pacific Northwest Site
+San José State University	curtis zhang	Curtis Zhang	Pacific Northwest Site
+University of California, Davis	chr(sum(range(ord(min(str(not()))))))	Ravi Kini	Pacific Northwest Site
+California State University, Chico	wildcat9	Ji (Jenny) Bae	Pacific Northwest Site
+University of British Columbia	user036	User 036	Pacific Northwest Site
+San José State University	Naman Sanghvi	Naman Sanghvi	Pacific Northwest Site
+California State University, Chico	wildcat6	Ivan	Pacific Northwest Site
+San José State University	Anushree Joshi	Anushree Joshi	Pacific Northwest Site
+University of British Columbia	user015	User 015	Pacific Northwest Site
+University of California, Berkeley	Sathvik Prasanna	Sathvik Prasanna	Pacific Northwest Site
+San José State University	Amey Sirdeshpande	Amey Sirdeshpande	Pacific Northwest Site
+San José State University	tung le	Tung Ba Le	Pacific Northwest Site
+San José State University	Anika Manjesh	Anika Manjesh	Pacific Northwest Site
+California State University, Monterey Bay	Jackie Luc	Jackie Luc	Pacific Northwest Site
+University of British Columbia	user019	User 019	Pacific Northwest Site
+University of British Columbia	user027	User 027	Pacific Northwest Site
+San José State University	Krishang Naikar	Krishang Naikar	Pacific Northwest Site
+San José State University	aidan spies	Aidan Spies	Pacific Northwest Site
+Simon Fraser University	SFU_Azure	Daniel Shi, loukas	Pacific Northwest Site
+San José State University	Ching Yeung Kwok	Ching Yeung Kwok	Pacific Northwest Site
+University of British Columbia	user007	User 007	Pacific Northwest Site
+California State University, Chico	wildcat2	Kalpit Sharma	Pacific Northwest Site
+San José State University	theon olaivar	theon olaivar	Pacific Northwest Site
+University of British Columbia	user004	User 004	Pacific Northwest Site
+San José State University	conner hsieh	conner hsieh	Pacific Northwest Site
+University of British Columbia	user001	User 001	Pacific Northwest Site
+California State University, Monterey Bay	Maximilian Marshall	Maximilian Marshall	Pacific Northwest Site
+University of British Columbia	user028	User 028	Pacific Northwest Site
+California State University, Chico	wildcat8	Hrishikesh Hasabnis	Pacific Northwest Site
+California State University, Monterey Bay	Marissa Benenati	Marissa Benenati	Pacific Northwest Site
+California State University, Chico	wildcat11	Jack Nakisher	Pacific Northwest Site
+University of British Columbia	user009	User 009	Pacific Northwest Site
+University of California, Davis	B-KOMACHI	Aadithyaa Sridharbaskari, Stanley Ko, Avery Li	Pacific Northwest Site
+San José State University	Citlaly Perez Guzman	Citlaly Perez Guzman	Pacific Northwest Site
+California State University, Chico	wildcat16	Hidden User	Pacific Northwest Site
+California State University, Monterey Bay	Steven Mecklenburg	Steven Mecklenburg	Pacific Northwest Site
+California State University, Monterey Bay	Matthijs De Vries	Matthijs De Vries	Pacific Northwest Site
+University of California, Berkeley	Inho Ryu	Inho Ryu	Pacific Northwest Site
+San José State University	Kobe Deng	Kobe Deng	Pacific Northwest Site
+University of British Columbia	user029	User 029	Pacific Northwest Site
+San José State University	Edison Fuh	Edison Fuh	Pacific Northwest Site
+San José State University	Agrika Gupta	Agrika Gupta	Pacific Northwest Site
+University of British Columbia	user014	User 014	Pacific Northwest Site
+University of British Columbia	user035	User 035	Pacific Northwest Site
+San José State University	Isaiah Mak	Isaiah Mak	Pacific Northwest Site
+California State University, Monterey Bay	Lesly Villanueva	Lesly V	Pacific Northwest Site
+Simon Fraser University	SFU_Pink	Sloane Wensauer, Enoch Muwawnguzi, Nathan Young, Max Liu	Pacific Northwest Site
+Simon Fraser University	SFU_Lavender	Kunpeng Zhang, Simon Ashton, Huy Ph.D	Pacific Northwest Site
+San José State University	dhiraj bomma	Dhiraj Bomma	Pacific Northwest Site
+California State University, Monterey Bay	Brandon Algarra	Brandon Algarra	Pacific Northwest Site
+San José State University	Kunal Pradhan	Kunal Pradhan	Pacific Northwest Site
+San José State University	Tiffany Tran	Tiffany Tran	Pacific Northwest Site
+University of British Columbia	user021	User 021	Pacific Northwest Site
+California State University, Monterey Bay	Daniel solano	Daniel Solano	Pacific Northwest Site
+University of British Columbia	user020	User 020	Pacific Northwest Site
+San José State University	Chahid Bagdouri	Chahid Bagdouri	Pacific Northwest Site
+University of British Columbia	user031	User 031	Pacific Northwest Site
+San José State University	Pari Sharma	Pari Sharma	Pacific Northwest Site
+California State University, Monterey Bay	Esther Nava	Esther Nava	Pacific Northwest Site
+California State University, Monterey Bay	Edwin Kofler	Edwin Kofler	Pacific Northwest Site
+San José State University	Aarya Chamkeri	Aarya Chamkeri	Pacific Northwest Site
+Trinity Western University	Performance Fish	Aiden Evans, Noah Hamm, Finian Lugtigheid	Pacific Northwest Site
+California State University, Chico	wildcat7	Zhe Zhu	Pacific Northwest Site
+University of British Columbia	user010	User 010	Pacific Northwest Site
+San José State University	eliot hall	Christopher Eliot Hall	Pacific Northwest Site
+University of British Columbia	user038	User 038	Pacific Northwest Site
+University of British Columbia	user026	User 026	Pacific Northwest Site
+UTM1		East Central NA Site
+Panamerican University	El bueno, el malo y la fea	Fernanda Sarahy Mancilla Núñez	ICPC Ineligible Site
+UTM2		East Central NA Site
+Contact System Status Terms of S
